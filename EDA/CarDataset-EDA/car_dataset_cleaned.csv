@@ -1,0 +1,848 @@
+Name,Price_NPR,Brand,Brand_Encoded,Fuel,Fuel_Encoded,Colour,Transmission,Transmission_Encoded,Year,Engine_CC,Mileage_Km,Odometer_Km
+Hyundai | i20 Active S | TDi | 2015 | Hatchback (Hyundai),2487500.0,Hyundai,24,Petrol,3,Brown,Manual2WD,2,2015,1400.0,14.0,42000.0
+Excellent car on sale (Hyundai),750000.0,Hyundai,24,Petrol,3,Light blue,Auto2WD,0,2005,1399.0,11.0,87412.0
+TATA 407 Container (Tata),700000.0,Tata,45,Diesel,0,White,Manual2WD,2,2013,2956.0,12.54,60000.0
+4x4 swaraj Mazda (Mahindra),600000.0,Mahindra,28,Diesel,0,Not Specified,Manual4WD,3,2017,1181.0,13.93,54355.15
+Tata Sumo Gold 2014 GX (Tata),1400000.0,Tata,45,Diesel,0,Artic Silver,Manual2WD,2,2014,2956.0,12.0,60000.0
+Mega XL hatti gadi (Tata),700000.0,Tata,45,Petrol,3,Brown chocolate colour,Auto2WD,0,2019,889.0,15.0,80000.0
+Maruti Suzuki Alto 2004 On Sale (Maruti Suzuki),580000.0,Maruti Suzuki,30,Petrol,3,Black,Manual2WD,2,2004,800.0,69.0,75000.0
+Grand i10 magna 2014 (Hyundai),1845000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2014,1200.0,14.0,31000.0
+Blue colour 2016 model Baleno (Maruti Suzuki),2050000.0,Maruti Suzuki,30,Petrol,3,blue,Auto4WD,1,2016,1200.0,17.0,41000.0
+WagonR Sell or Rent (Maruti Suzuki),1025000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2008,1098.0,20.0,43000.0
+2010 model red color santro zinc for sale (Hyundai),1350000.0,Hyundai,24,Petrol,3,red,Manual4WD,3,2010,1100.0,13.42,4200.0
+Mahindra cabking (Mahindra),1250000.0,Mahindra,28,Diesel,0,Not Specified,Manual2WD,2,2018,948.0,16.76,38634.75
+2011 model ko kia sportage sales & exchange offer (Kia),3250000.0,Kia,27,Diesel,0,Not Specified,Manual4WD,3,2011,2000.0,13.0,67000.0
+"2015 model bolero 7 seater 4wd,powerstering sale (Mahindra)",1950000.0,Mahindra,28,Diesel,0,Silver grey,Manual4WD,3,2015,2500.0,11.65,65000.0
+बैंक सुबिधा भएको सस्तो कार सङ्ग पनि सट्टा पट्टा (Mahindra),3200000.0,Mahindra,28,Electric,1,silver,Manual2WD,2,2019,2100.0,15.0,61000.0
+Hyundai I20 Active Diesel 2015 (Hyundai),2500000.0,Hyundai,24,Diesel,0,Earth Brown,Manual2WD,2,2015,1400.0,14.0,42000.0
+Isuzu Vcross 2019 (Other Brands),5100000.0,Other Brands,34,Diesel,0,white,Manual4WD,3,2019,2499.0,12.13,51000.0
+Mg Zs Ev 2021 On Sale (Other Chinese Brands),5300000.0,Other Chinese Brands,35,Electric,1,Red,Auto2WD,0,2021,2100.0,300.0,12200.0
+Niro (Kia),5800000.0,Kia,27,Electric,1,White,Auto2WD,0,2019,1600.0,13.5,9000.0
+Hyundai i10 Magna 1.2 2010 model (Hyundai),1350000.0,Hyundai,24,Petrol,3,Champagne golden,Manual2WD,2,2010,1074.0,41.04,28459.8
+Like a Brand New Grand i10 sports 0 Push Bottom (Hyundai),2350000.0,Hyundai,24,Petrol,3,passion red,Manual2WD,2,2017,1197.0,14.0,7000.0
+Fore Sale Grand I10 Magna (Hyundai),1850000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2014,1200.0,14.0,45000.0
+Kia Rio 2011 Model Best Condition (Kia),1430000.0,Kia,27,Petrol,3,Clear white,Manual2WD,2,2011,1399.0,18.0,59000.0
+Hundai Grend I 10 2019 model Sportz (Hyundai),2600000.0,Hyundai,24,Petrol,3,grey,Manual2WD,2,2019,1200.0,13.0,18300.0
+Hyundai Creta | Model - 2017 | Diesel (Hyundai),3750000.0,Hyundai,24,Diesel,0,Polar White,Manual2WD,2,2017,1582.0,21.4,42000.0
+TATA BOLT RT XM (Tata),1780000.0,Tata,45,Petrol,3,white,Manual2WD,2,2017,1193.0,16.35,80537.32
+Santro 2010 (Hyundai),1360000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2010,1100.0,15.0,53000.0
+urgent sell (Tata),950000.0,Tata,45,Petrol,3,silver,Auto2WD,0,2013,1400.0,10.0,54212.92
+Car on sale (Maruti Suzuki),2650000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2017,1200.0,18.0,29000.0
+Toyota hilux revo 2018 sell or exchange (Toyota),7850000.0,Toyota,46,Diesel,0,Sleek silver,Manual4WD,3,2018,2632.0,12.0,42000.0
+Datsun Go on sale (Datsun),1275000.0,Datsun,13,Petrol,3,light Blue,Manual2WD,2,2016,1200.0,16.0,48000.0
+Nissan navara le (Nissan),2400000.0,Nissan,33,Diesel,0,dark red,Manual4WD,3,2010,2500.0,10.0,75000.0
+Sentro fresh condition (Hyundai),1300000.0,Hyundai,24,Petrol,3,Blue,Auto2WD,0,2009,1086.0,18.0,80000.0
+Ford Ecosport for sale (Ford),2950000.0,Ford,20,Petrol,3,Space grey,Manual2WD,2,2017,1500.0,17.0,26000.0
+One Week Offer Price Fiat Avventura Dynamic 2016.. (Fiat),1550077.0,Fiat,19,Petrol,3,Exo - Red,Manual2WD,2,2016,1368.0,16.14,57000.0
+Hyundai Venue 2021 like Brand new on Sale (Hyundai),3525000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2021,1200.0,18.0,13750.0
+Scorpio S4+ (Mahindra),3450000.0,Mahindra,28,Diesel,0,Silbhar,Auto4WD,1,2016,1565.0,22.24,37273.3
+FORD IKON FULL OPTION FRESH N SMOOTH (Ford),550000.0,Ford,20,Petrol,3,grey,Manual2WD,2,2003,1299.0,15.0,52000.0
+Ford Figo (Trend) (Ford),1500000.0,Trend,47,Petrol,3,Off white,Manual2WD,2,2016,1200.0,14.0,70000.0
+"Fully fresh, excellent condition, tax cleared (Hyundai)",640000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2002,1086.0,14.0,32200.01
+Kia sportage AWD 8air bag fully looded for sale (Kia),3250000.0,Kia,27,Diesel,0,chocolate gry,Manual4WD,3,2011,2000.0,13.0,67000.0
+car sell (Nissan),550000.0,Nissan,33,Diesel,0,Not Specified,Auto2WD,0,1997,1104.0,15.62,148951.13
+2023 Nissan Magnite XE (Nissan),3399000.0,Nissan,33,Petrol,3,Brown,Manual2WD,2,2023,999.0,17.76,75262.31
+Spark (Chevrolet),575000.0,Chevrolet,11,Petrol,3,golden,Manual2WD,2,2007,1089.0,12.0,41718.44
+i20 activeS2016 just like brand new exchange offer (Hyundai),2850000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2017,1200.0,13.0,38000.0
+wagonar bikrima (Maruti Suzuki),1050000.0,Maruti Suzuki,30,Petrol,3,Red,Manual2WD,2,2010,1086.0,15.0,75000.0
+santro bikrima (Hyundai),1050000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2007,1086.0,14.0,71000.0
+ZEN 2006 (Maruti Suzuki),749000.0,Maruti Suzuki,30,Petrol,3,Silkie Silver,Manual4WD,3,2006,1000.0,16.0,74000.0
+Creta SX 2019 Like new (Hyundai),4300000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2019,1600.0,14.0,24000.0
+Wagon R 2009 (Maruti Suzuki),895000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2009,5203.0,12.62,9959.73
+2010 i 10 MAGNA (Hyundai),1400000.0,Hyundai,24,Petrol,3,blue,Manual2WD,2,2010,1200.0,14.8,39888.0
+Hyundai Accent 2006 Narayani Number (Hyundai),550000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2006,1400.0,17.0,160189.91
+Honda Jazz 2016 model (Honda),2350000.0,Honda,23,Petrol,3,White,Manual2WD,2,2016,1200.0,12.0,34200.0
+maruti suzuki ZEN LX (Maruti Suzuki),475000.0,Maruti Suzuki,30,Petrol,3,silver,Auto2WD,0,2002,1000.0,18.0,70000.0
+Truck for sale (Tata),1825000.0,Tata,45,Diesel,0,Orange,PowerSteering,4,2017,1886.0,10.79,51476.19
+School Bus On Sale,2100000.0,School,39,Diesel,0,Yellow,Manual2WD,2,2016,3700.0,10.0,30000.0
+Single hand Honda Jazz VMT Fully Loaded (Honda),2450000.0,Honda,23,Petrol,3,Morun metallic,Manual2WD,2,2016,1200.0,12.0,30000.0
+TATA 709 EX SCHOOL BUS (Tata),700000.0,Tata,45,Diesel,0,yellow,Auto2WD,0,2012,3783.0,5.0,60000.0
+Nissan sunny 2014 full option sedan for sale (Nissan),1599999.0,Nissan,33,Petrol,3,Grey,Manual2WD,2,2014,1388.0,16.2,42500.0
+Nissan kicks XV 2021 (Nissan),4499999.0,Nissan,33,Petrol,3,Grey,Manual4WD,3,2021,2449.0,11.81,3700.0
+Haval H6 AWD 2021 Top Version (Great Wall Motors),9700000.0,Great Wall Motors,22,Petrol,3,Atlantis Blue,Auto4WD,1,2021,3000.0,9.85,16777.0
+ford figo 2016 (Ford),1550000.0,Ford,20,Petrol,3,Not Specified,Manual4WD,3,2016,1442.0,14.25,36950.14
+Volkswagen Polo 1.6 (Volkswagen),1650000.0,Volkswagen,49,Petrol,3,Grey,Manual2WD,2,2011,1600.0,12.0,55708.0
+kia pincato 2010 full option (Kia),9750000.0,Kia,27,Petrol,3,gray,Auto2WD,0,2010,1200.0,18.0,57000.0
+ELECTRIC CAR FOR SALE! BRAND NEW E VERITO (Mahindra),2050000.0,Mahindra,28,Electric,1,GREY,Auto2WD,0,2020,600.0,160.0,6000.0
+Hyundai Santro Fresh 2011 (Hyundai),1400000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2011,1084.0,14.0,57560.0
+golden chance 2015 model i20 active s car on sale (Hyundai),2299999.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2015,1329.0,16.0,37054.33
+2014 Honda City (Honda),2099000.0,Honda,23,Petrol,3,Maroon,Manual2WD,2,2014,1500.0,14.0,55000.0
+2014 Honda City on Sale (Honda),2099000.0,Honda,23,Petrol,3,Maroon,Manual2WD,2,2014,1500.0,16.0,55000.0
+Swift ZXI 2009 9823584566 (Maruti Suzuki),1425000.0,Maruti Suzuki,30,Petrol,3,Dust grey,Manual2WD,2,2009,1300.0,13.0,70000.0
+TATA INDIGO MANZA LX (Tata),1400000.0,Tata,45,Diesel,0,white,Manual2WD,2,2014,1248.0,18.0,60000.0
+Sonalika tractor (Other Brands),1250000.0,Other Brands,34,Diesel,0,Blue,Manual2WD,2,2020,964.0,17.81,44055.97
+Volkswagen Polo (Volkswagen),1480000.0,Volkswagen,49,Petrol,3,White,Manual2WD,2,2012,1200.0,16.06,45105.35
+"Swift Vxi 2017 model, single hand (Maruti Suzuki)",2000000.0,Maruti Suzuki,30,Petrol,3,Silver,Auto2WD,0,2017,1200.0,16.0,35200.0
+2022 Kia seltos HTK+ imt semi auto (Kia),5200000.0,Kia,27,Petrol,3,White,Manual2WD,2,2022,1500.0,15.0,6700.0
+5lakh cash ma ramro vhanda ramro gadi chahiyo? (Other Brands),500000.0,Other Brands,34,Petrol,3,Not Specified,PowerSteering,4,2005,1884.0,10.96,60304.76
+"Tata Motors, Winger,2017, Yellow , 14 Seats (Tata)",2100000.0,Tata,45,Diesel,0,Yellow,Manual2WD,2,2017,1948.0,12.55,93726.0
+Maruti Suzuki swift (Maruti Suzuki),1950000.0,Maruti Suzuki,30,Petrol,3,Silver,Auto2WD,0,2013,1200.0,13.0,47000.0
+hurry hurry aayo compass limited jeep xito xito xi (Jeep),8000000.0,Jeep,25,Diesel,0,cream white,Manual2WD,2,2021,1956.0,17.0,9500.0
+Opel corsa 1.4 (Other Brands),375000.0,Other Brands,34,Petrol,3,Silver,Manual2WD,2,2000,1400.0,10.0,71000.0
+Maruti suzuki Astar (Maruti Suzuki),920000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Auto2WD,0,2009,1122.0,14.59,70000.0
+"Nissan X-trail, 2010, beige colour, diseal (Nissan)",3200000.0,Nissan,33,Diesel,0,beige,Manual4WD,3,2010,2000.0,11.99,70000.0
+Skoda Khushaq (Skoda),5500000.0,Skoda,42,Petrol,3,Selki silver,Manual2WD,2,2021,1000.0,15.0,24800.0
+Kia Seltos auto 2021 (Kia),5750000.0,Kia,27,Petrol,3,Pearl White,Auto2WD,0,2021,1500.0,10.0,14500.0
+hyundai eon era + (Hyundai),1175000.0,Hyundai,24,Petrol,3,nilo,Manual2WD,2,2013,800.0,15.0,32000.0
+Brezza Zxi+ Petrol 2021 Model (full Options) (Maruti Suzuki),4125000.0,full Options,52,Petrol,3,Silky silver,Manual2WD,2,2021,1500.0,16.0,12000.0
+Nexon Ex. 2022 LUX 12000km only (Tata),3700000.0,Tata,45,Electric,1,blue white,Auto2WD,0,2022,600.0,270.0,12000.0
+Land cruiser Prado tx (Toyota),16700000.0,Toyota,46,Diesel,0,White,Auto4WD,1,2016,2882.0,11.71,46543.0
+Mistubishi ls200 (Mitsubishi),7650000.0,Mitsubishi,32,Diesel,0,Blue,Manual4WD,3,2020,2400.0,12.0,32000.0
+Hyundai Create 2017 Model White Color (Hyundai),3300000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2017,1599.0,15.0,70000.0
+terious 2008 model is for sale (Daihatsu),2775000.0,Daihatsu,12,Petrol,3,white,Manual4WD,3,2008,1500.0,15.07,71000.0
+eeco van (Maruti Suzuki),1400000.0,Maruti Suzuki,30,Petrol,3,silver,PowerSteering,4,2015,1200.0,12.0,60857.79
+Vitara Brezza 2020 Zxi+ (Maruti Suzuki),4000000.0,Maruti Suzuki,30,Petrol,3,Red + Black,Manual2WD,2,2020,1500.0,15.0,34000.0
+Baleno Zeta 2020 (Maruti Suzuki),3000000.0,Maruti Suzuki,30,Petrol,3,Blue,Manual2WD,2,2020,1200.0,18.0,11000.0
+Fresh Mini Jeep On Sell (Other Chinese Brands),1005000.0,Other Chinese Brands,35,Petrol,3,Silver,Manual2WD,2,2009,1300.0,12.0,67200.0
+Tata Yodha 2021 Model (Tata),1500000.0,Tata,45,Diesel,0,White,Manual2WD,2,2021,2900.0,11.61,45000.0
+maruti suzuki ritz (Maruti Suzuki),1225000.0,Maruti Suzuki,30,Petrol,3,gray,Auto2WD,0,2010,1200.0,15.0,62000.0
+Toyota Fortuner 2010 (Toyota),7000000.0,Toyota,46,Diesel,0,Golden,Manual4WD,3,2010,2800.0,10.0,52000.0
+"Maruti Suzuki Alto 800 Lxi, (Maruti Suzuki)",1325000.0,Maruti Suzuki,30,Petrol,3,Red,Manual2WD,2,2016,800.0,18.0,42500.0
+car swift ZXI (Maruti Suzuki),2300000.0,Maruti Suzuki,30,Petrol,3,Grey,Auto2WD,0,2016,1200.0,16.0,25000.0
+Single Handed Bolero D/c 4wd P/s 2018 For Sell (Mahindra),2100000.0,Mahindra,28,Diesel,0,White,Manual4WD,3,2018,2523.0,15.0,59000.0
+I 20Asta Elite (Hyundai),2750000.0,Hyundai,24,Petrol,3,Gray,Manual2WD,2,2016,1200.0,14.67,23000.0
+"Grand i10 magna 1.2, (Hyundai)",2525000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2019,1200.0,15.0,17000.0
+Skoda yeti in excellent condition (Skoda),2325000.0,Skoda,42,Petrol,3,Black,Manual4WD,3,2010,1673.0,12.0,72000.0
+Bolero Double cab for sale (Mahindra),2350000.0,Mahindra,28,Diesel,0,Off white,PowerSteering,4,2021,2500.0,12.0,37109.97
+i20 Sportz 2010 for sale (Hyundai),1599000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2010,1197.0,14.0,60500.0
+Suzuki Omni Cargo Van 2012 Contact no. 9813293195 (Maruti Suzuki),420000.0,Maruti Suzuki,30,Petrol,3,White,Auto2WD,0,2012,800.0,18.0,41795.03
+"Hyundai i10 2011 model, Good condition (Hyundai)",1500000.0,Hyundai,24,Petrol,3,blue,Manual2WD,2,2011,1200.0,15.5,45400.0
+Kia seltos HTX IVT Automatic transmission (Kia),5800000.0,Kia,27,Petrol,3,White,Auto2WD,0,2021,1600.0,14.0,8000.0
+Fresh eco van ungent sale (Maruti Suzuki),2075000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2021,1200.0,14.0,31000.0
+car on sale (Mahindra),2975000.0,Mahindra,28,Diesel,0,silver,Manual2WD,2,2016,2179.0,16.0,62370.0
+Ssangyong TIVOLI 2019 (1600 CC) (Ssangyong),3990000.0,1600 CC,0,Petrol,3,Red,Auto2WD,0,2019,1600.0,12.25,38000.0
+Bus on sale tata 2010 kritipur to ratnapark root (Tata),700000.0,Tata,45,Diesel,0,Not Specified,Manual4WD,3,2010,3500.0,9.58,69151.23
+Suzuki Swift Zxi 2014 (Maruti Suzuki),2100000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2014,1200.0,18.0,58000.0
+tata mobil gadi on sell (Tata),350000.0,Tata,45,Diesel,0,blue,Auto2WD,0,2007,1948.0,7.0,35000.0
+Van (Maruti Suzuki),400000.0,Maruti Suzuki,30,Petrol,3,White,Auto2WD,0,2014,800.0,14.0,5500.0
+fresh gadi kehi problem xaina 2010 model 950000 (Mahindra),950000.0,Mahindra,28,Diesel,0,Not Specified,Manual2WD,2,2010,2500.0,10.9,67908.06
+Fully Loaded Full Option Branded Car Opel Corsa (Other Brands),395900.0,Other Brands,34,Petrol,3,Silver,Manual2WD,2,2000,1600.0,15.0,50000.0
+Scorpio lx (Mahindra),2350000.0,Mahindra,28,Diesel,0,Army green,Manual2WD,2,2014,2200.0,15.0,97500.0
+Super Fresh High Copy Of Terios 2011 Zotye 1.6 ABS (Other Chinese Brands),1075900.0,Other Chinese Brands,35,Petrol,3,Blue,Manual2WD,2,2011,1600.0,15.0,40000.0
+FIAT AVVENTURA 1.4 DYNAMIC ON SALE (Fiat),1600000.0,Fiat,19,Petrol,3,Silver,Manual2WD,2,2015,1383.0,12.0,25125.0
+Tata indica model 2007 500000 9860462630 (Tata),500000.0,Tata,45,Diesel,0,Black,Manual2WD,2,2007,1500.0,14.91,71000.0
+Chevrolet Spark on Sale (Chevrolet),900000.0,Chevrolet,11,Petrol,3,Golden,Manual2WD,2,2012,995.0,18.0,30000.0
+Well maintained Scorpio on sale (Mahindra),1720000.0,Mahindra,28,Diesel,0,White,Manual2WD,2,2007,2400.0,10.29,100000.0
+Hyundai i20 sportz 2010 urgent Sale (Hyundai),1500000.0,Hyundai,24,Petrol,3,White,Auto2WD,0,2010,1198.0,14.36,43000.0
+Santro Xing Car for sale (Hyundai),1050000.0,Hyundai,24,Petrol,3,Sky blue,PowerSteering,4,2006,1086.0,14.02,150216.02
+Toyota corolla /1975/ (Toyota),1800000.0,Toyota,46,Petrol,3,silver,Manual2WD,2,1975,1200.0,12.0,95000.0
+Suzuki Baleno Delta 2018 Model (Maruti Suzuki),2265000.0,Maruti Suzuki,30,Petrol,3,Premium silver,PowerSteering,4,2018,1200.0,16.0,43000.0
+I20 actives 2016 model on sell or xchange (Hyundai),2600000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2016,1200.0,14.67,34000.0
+kia sportage 2.0 korean (Kia),1450000.0,Kia,27,Diesel,0,red,Manual4WD,3,2005,2000.0,11.0,95000.0
+ecosport on sell (Ford),1900000.0,Ford,20,Petrol,3,Not Specified,Manual2WD,2,2013,1000.0,15.77,60706.52
+Toyota Corolla Lx 2009 Auto A/C 6 Airbag On Sale (Toyota),2350000.0,Toyota,46,Petrol,3,White,Manual2WD,2,2009,1600.0,12.0,55000.0
+Skoda Rapid Model 2015 1600 Cc (Skoda),1600000.0,Skoda,42,Petrol,3,Silver,Manual2WD,2,2015,1600.0,12.0,65000.0
+Santo xing on sale full option 2003 model on sale (Hyundai),800000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2003,1086.0,14.17,90000.0
+2002 model full option santro for sale (Hyundai),570000.0,Hyundai,24,Petrol,3,Sky blue,Manual2WD,2,2002,1086.0,14.0,89.0
+2001 model frees santro for sale (Hyundai),470000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2001,1000.0,14.0,95.0
+2021 model Sonet like new only 10000 KM run (Kia),3080000.0,Kia,27,Petrol,3,Grey,Manual2WD,2,2021,1200.0,12.0,10000.0
+Tata nexon EV (Tata),3850000.0,Tata,45,Electric,1,Not Specified,Auto2WD,0,2022,2201.0,13.09,29111.94
+sale (Hyundai),1290000.0,Hyundai,24,Petrol,3,gray,Manual2WD,2,2008,1200.0,12.0,67000.0
+Suzuki AStar zxi (Maruti Suzuki),1125000.0,Maruti Suzuki,30,Petrol,3,Blue,Auto2WD,0,2010,1000.0,20.0,72000.0
+Hyundai Santro Xing Xo 2005 (Hyundai),950000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2005,1086.0,14.41,45.0
+Hyundai Santro Gls Plus 2013 (Hyundai),1490000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2013,1086.0,14.82,40000.0
+Maruti Suzuki Baleno Delta 2016 (Maruti Suzuki),2075000.0,Maruti Suzuki,30,Petrol,3,Blue,Manual2WD,2,2016,1197.0,14.75,39000.0
+Maruti Suzuki Zen Estilo Vxi 2010 (Maruti Suzuki),1075000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2010,996.0,18.73,61477.0
+2010 Maruti Suzuki (Maruti Suzuki),1300000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2010,1200.0,13.5,68000.0
+Cargo maruti (Maruti Suzuki),500000.0,Maruti Suzuki,30,Petrol,3,White,Manual4WD,3,2015,800.0,15.0,40000.0
+"2015 model swift zxi singlehanded sale,exng bike (Maruti Suzuki)",2250000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2015,1200.0,16.0,46000.0
+FINANCE PANI Hatti Gadi Urgent Sell 9849193421 (Tata),1100000.0,Tata,45,Diesel,0,white,Manual4WD,3,2018,1405.0,16.0,95000.0
+Hyundai i20 asta 2010 (Hyundai),1525000.0,Hyundai,24,Petrol,3,51000,Manual2WD,2,2010,1198.0,14.65,54592.5
+Nissan Magnite XV Dual (Nissan),4034000.0,Nissan,33,Petrol,3,Not Specified,Manual2WD,2,2023,999.0,17.76,23141.41
+"2016 Swift Dezire Vxi Sale, Exchange, Finance (Maruti Suzuki)",2075000.0,Maruti Suzuki,30,Petrol,3,Brown,Manual2WD,2,2016,1200.0,16.0,47000.0
+santro xing (Hyundai),650000.0,Hyundai,24,Petrol,3,sliver,PowerSteering,4,2001,1000.0,15.0,80000.0
+GRAND I 10 Magna 1.2 (Hyundai),2550000.0,Hyundai,24,Petrol,3,Silver,Manual4WD,3,2019,1196.0,14.81,17000.0
+Puegot (Other Brands),500000.0,Other Brands,34,Petrol,3,sky,Manual2WD,2,2001,2800.0,10.68,90000.0
+Volswagen CrossPolo (Volkswagen),2050000.0,Volkswagen,49,Petrol,3,black,Manual2WD,2,2015,1600.0,13.89,35000.0
+Fiat Aventura (Fiat),1550000.0,Fiat,19,Petrol,3,white,Manual2WD,2,2015,1400.0,13.0,35000.0
+Hyundai Creta Sx top variant (Hyundai),4575000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2019,1500.0,13.26,38000.0
+Ecosport ford Ambient (Ford),2250000.0,Ford,20,Petrol,3,Orange,Manual2WD,2,2016,1200.0,13.72,50000.0
+S Hyundai i20 Active (Hyundai),2865000.0,Hyundai,24,Petrol,3,chocolate,Manual2WD,2,2017,1197.0,14.0,35000.0
+Top variant Hyundai i 20 Active (Hyundai),2900000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2017,1200.0,13.0,38000.0
+Chevrolet Optra (Chevrolet),1250000.0,Chevrolet,11,Petrol,3,golden,Manual2WD,2,2012,1400.0,12.38,38000.0
+Grand i10 Magna New shape (Hyundai),2300000.0,Hyundai,24,Petrol,3,mehroon,Manual2WD,2,2018,1200.0,14.0,27000.0
+volswagen Tiguan (Volkswagen),3150000.0,Volkswagen,49,Petrol,3,Grey,Manual2WD,2,2010,2000.0,93.19,75000.0
+Suzuki Breeza zxi plus (Maruti Suzuki),3975000.0,Maruti Suzuki,30,Petrol,3,Red,Manual2WD,2,2021,1300.0,16.51,30000.0
+Hyundai i10Magna (Hyundai),1265000.0,Hyundai,24,Petrol,3,Blue,Manual2WD,2,2009,1197.0,14.2,61000.0
+Green Indica (Tata),395000.0,Tata,45,Diesel,0,green,Manual2WD,2,2003,1400.0,15.42,75000.0
+Tata Indica (Tata),390000.0,Tata,45,Petrol,3,black,Manual2WD,2,2000,1400.0,13.0,90000.0
+Bolero pickup Fully loaded (Mahindra),1550000.0,Mahindra,28,Diesel,0,white,Manual4WD,3,2016,2523.0,13.0,45000.0
+Ford Ecosport Titanium push bottom (Ford),2425000.0,Ford,20,Petrol,3,orange,Manual2WD,2,2016,1500.0,13.0,38000.0
+Hyundai I20 Elite Asta (Hyundai),2275000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2015,1200.0,14.0,40000.0
+Nissan March (Nissan),1525000.0,Nissan,33,Petrol,3,silver,Manual2WD,2,2014,1197.0,14.0,38000.0
+Suzuki Swift VXI 2009 for sale (Maruti Suzuki),1399000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2009,1300.0,14.0,52000.0
+Diahatsu Sirion (Daihatsu),875000.0,Daihatsu,12,Petrol,3,silver,Manual2WD,2,2007,1000.0,14.0,61000.0
+Hyyundai Tucson (Hyundai),2150000.0,Hyundai,24,Diesel,0,Red,Manual4WD,3,2007,2000.0,13.0,78000.0
+Suzuki cargo van (Maruti Suzuki),540000.0,Maruti Suzuki,30,Petrol,3,white,Manual2WD,2,2014,800.0,14.0,60486.13
+Toyota Yaris silver colour one hand 2007 (Toyota),1400000.0,Toyota,46,Petrol,3,Silver,Auto2WD,0,2007,1400.0,14.0,100000.0
+Suzuki Swift Dezire New Shape (Maruti Suzuki),2190000.0,Maruti Suzuki,30,Petrol,3,Mehroon,Manual2WD,2,2017,1197.0,14.0,38000.0
+wagon r (Maruti Suzuki),1375000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2014,1000.0,16.0,28000.0
+Grand i10 Asta 2014 (Hyundai),2125000.0,Hyundai,24,Petrol,3,Stardust,Manual2WD,2,2014,1197.0,14.47,48000.0
+Ford Fiesta Classic (Ford),1150000.0,Ford,20,Diesel,0,White,Manual2WD,2,2014,1400.0,16.0,70.0
+Toyota fortuner 2015 model (Toyota),9700000.0,Toyota,46,Diesel,0,white,Manual4WD,3,2015,3000.0,12.0,45000.0
+Honda brio smt 2012 model seal pack engine (Honda),1350000.0,Honda,23,Petrol,3,Blue,Manual2WD,2,2012,1200.0,14.0,59000.0
+Mazda 2 (Mazda),1625000.0,Mazda,31,Petrol,3,Not Specified,Manual2WD,2,2010,1500.0,13.16,61000.0
+Grand Vitara 2007 model (Maruti Suzuki),1950000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual4WD,3,2007,1870.0,11.05,70249.51
+Polo 1.6 2013 Highline (Volkswagen),1725000.0,Volkswagen,49,Petrol,3,Not Specified,Manual2WD,2,2013,1492.0,15.68,62000.0
+Mahindra E2o Electric Car (Mahindra),1375000.0,Mahindra,28,Electric,1,Not Specified,Auto2WD,0,2016,1179.0,13.92,34597.9
+swift vxi 2012 mode is for sale (Maruti Suzuki),1675000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2012,1200.0,12.5,52000.0
+Second hand Bolt XM (Tata),1999999.0,Tata,45,Petrol,3,Dew white,Manual2WD,2,2017,1200.0,17.0,50000.0
+Suzuki car (Maruti Suzuki),750000.0,Maruti Suzuki,30,Petrol,3,gray,Manual2WD,2,2008,800.0,15.81,53653.36
+सबै भन्दा सस्तो मूल्यमा indigo 2010 full option (Tata),795000.0,Tata,45,Diesel,0,artic silver,Manual2WD,2,2010,1405.0,18.0,64000.0
+2021 model Hyundai Venue-S 9847699255 (Hyundai),3650000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2021,1200.0,17.0,21000.0
+KIA SELTOS HTK+2020 (Kia),4275000.0,Kia,27,Petrol,3,Magnative Gray,Manual2WD,2,2020,1500.0,16.0,28500.0
+Magnite like new (Nissan),2450000.0,Nissan,33,Petrol,3,Silver,Manual2WD,2,2021,1000.0,15.0,5600.0
+Second hand swift zxi (Maruti Suzuki),1900000.0,Maruti Suzuki,30,Petrol,3,Metallic grey,Auto2WD,0,2013,1200.0,18.0,45000.0
+Hyundai Creta E+ On Sale (Hyundai),3950000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2019,1600.0,14.0,20000.0
+Maruti Suzuki Celerio Auto Gear On Sale (Maruti Suzuki),1850000.0,Maruti Suzuki,30,Petrol,3,Green,Auto2WD,0,2014,1000.0,12.0,40000.0
+Second hand Nexon (Tata),3400000.0,Tata,45,Diesel,0,Dark blue,Auto2WD,0,2018,1500.0,18.0,40000.0
+Hyundai Santro On Sale (Hyundai),1100000.0,Hyundai,24,Petrol,3,Silver,Manual4WD,3,2007,1000.0,14.18,60000.0
+Hyundai I20 Active S On Sale (Hyundai),2850000.0,Hyundai,24,Petrol,3,Brown,Manual2WD,2,2017,1200.0,13.0,50000.0
+2010 model Tata Safari VX 7 sitter 4wd 9847699255 (Tata),1175000.0,Tata,45,Diesel,0,green,Manual4WD,3,2010,2169.0,14.25,70000.0
+Mahindra Scorpio S4 On Sale (Mahindra),3150000.0,Mahindra,28,Diesel,0,Blue,Manual2WD,2,2016,2200.0,12.0,50000.0
+Full option Ford Ecosport for Sale (Ford),2299000.0,Ford,20,Diesel,0,Smoke Grey,Manual2WD,2,2015,1499.0,15.0,50000.0
+Airport Pick-up & Drop (Maruti Suzuki),1500000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2015,1100.0,15.03,50636.55
+VW Taigun for sale (Volkswagen),6200000.0,Volkswagen,49,Petrol,3,Steel Grey,Auto2WD,0,2021,2967.0,12.36,17000.0
+Volkswagen Touareg 2010 (Volkswagen),6200000.0,Volkswagen,49,Diesel,0,White,Auto4WD,1,2010,2967.0,11.71,98000.0
+Hyundai Creta 1.6 Gasoline Sx for sale (Hyundai),5500000.0,Hyundai,24,Petrol,3,Polar White,Manual2WD,2,2019,1591.0,17.19,30000.0
+Renault duster (rxl) (Renault),2400000.0,rxl,54,Petrol,3,orange-coloured,Manual2WD,2,2016,1596.0,12.0,36000.0
+Ufo jonway chinese (Other Chinese Brands),1050000.0,Other Chinese Brands,35,Petrol,3,white metallice,Manual2WD,2,2010,1596.0,10.0,65000.0
+santro 2003 (Hyundai),650000.0,Hyundai,24,Petrol,3,Not Specified,PowerSteering,4,2003,1000.0,15.0,73668.23
+Hyundai I20 Asta Diesel engine CRDI (Hyundai),1375000.0,Hyundai,24,Diesel,0,Silver,Manual2WD,2,2010,1400.0,15.28,47000.0
+SUPER FRESH CONDITION SUZUKI SWIFT DEZIRE ON SALE (Maruti Suzuki),1185000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2009,1300.0,15.0,45000.0
+Tata Ace Ht 2017 (Tata),630000.0,Tata,45,Diesel,0,Blue,Auto2WD,0,2017,702.0,15.0,5900.0
+Maruti Suzuki Eeco Van 5seater With AC 2017 Model (Maruti Suzuki),1475000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2017,1196.0,14.85,38300.0
+maruti suzuki brezza vxi 2021 (Maruti Suzuki),4050000.0,Maruti Suzuki,30,Petrol,3,premium silver,Manual2WD,2,2021,1500.0,20.0,17000.0
+Kia Sportage single hand with multiple airbag (Kia),5700000.0,Kia,27,Diesel,0,grey,Manual4WD,3,2016,2500.0,11.73,36200.0
+maruti Suzuki Eeco van with AC (5seater) (Maruti Suzuki),1475000.0,5seater,8,Petrol,3,white,Manual2WD,2,2017,1196.0,14.67,38300.0
+Mahindra Scorpio S4 plus 2016 single hand (Mahindra),3300000.0,Mahindra,28,Petrol,3,silver,PowerSteering,4,2016,2000.0,12.27,56000.0
+Hyundai Kona Electric 150kW (Hyundai),6500000.0,Hyundai,24,Electric,1,metallic blue,Auto2WD,0,2020,1661.0,550.0,20000.0
+Fresh Condition Suzuki Swift Vxi 2009 Model onsale (Maruti Suzuki),1350000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2009,1298.0,13.0,64000.0
+Hyundai tucson (Hyundai),2350000.0,Hyundai,24,Diesel,0,blue,Manual4WD,3,2009,2000.0,12.0,73000.0
+Fresh Condition I10 Magna 1.2 2013 Model For Sell (Hyundai),1700000.0,Hyundai,24,Petrol,3,Cream white,Manual2WD,2,2013,1200.0,14.0,62000.0
+Urgent Sale Tata xenon Doible cabin 4 WD 2015 (Tata),1400000.0,Tata,45,Diesel,0,silver,Manual4WD,3,2015,2200.0,13.02,130000.0
+Hyundai Creta 2022 model (Hyundai),4800000.0,Hyundai,24,Diesel,0,white,Manual2WD,2,2022,1871.0,10.96,7719.33
+hilux on sale (Toyota),7600000.0,Toyota,46,Petrol,3,white,Auto4WD,1,2017,2700.0,15.0,65000.0
+suzuki brezza zdi+ (Maruti Suzuki),3100000.0,Maruti Suzuki,30,Diesel,0,grey,Manual2WD,2,2017,1248.0,18.0,56000.0
+Tata Sumo Victa 2008 (Tata),975000.0,Tata,45,Diesel,0,silver,Manual2WD,2,2008,1948.0,9.64,56000.0
+I10 Magna 2009 ( 9851008482) (Hyundai),1350000.0,9851008482,9,Petrol,3,Black,Manual2WD,2,2009,1197.0,13.04,39528.36
+Eicher terra 16xp tipper sasto ma bikrima (Eicher),3700000.0,Eicher,17,Diesel,0,Yellow,PowerSteering,4,2021,4898.0,14.31,3700.0
+suzuki alto (Maruti Suzuki),699000.0,Maruti Suzuki,30,Petrol,3,silver,Auto2WD,0,2007,800.0,15.38,68968.01
+Tata indica 500000 9860462630 (Tata),500000.0,Tata,45,Petrol,3,Black,Auto2WD,0,2007,1500.0,14.89,20.0
+Swift Dzire 2010 Model (Maruti Suzuki),1400000.0,Maruti Suzuki,30,Petrol,3,Grey,PowerSteering,4,2010,1300.0,15.0,61000.0
+Ufo jeep for sale (Other Chinese Brands),1500000.0,Other Chinese Brands,35,Petrol,3,Mate Black,Manual2WD,2,2010,1600.0,13.54,86000.0
+Excellent Condition Maruti Suzuki Alto 800 On Sale,1250000.0,Maruti,29,Petrol,3,Grey,Manual2WD,2,2015,800.0,16.41,40352.0
+omni cargo van 2012 for sale (Maruti Suzuki),525000.0,Maruti Suzuki,30,Petrol,3,white,Manual2WD,2,2012,800.0,10.0,8200.0
+good condition somu gold ex 2016 ko fresh xa (Tata),1500000.0,Tata,45,Diesel,0,read,Manual2WD,2,2016,2900.0,14.0,80000.0
+good condition bolero dubele cap 4×4 (Mahindra),1750000.0,Mahindra,28,Diesel,0,white,Manual4WD,3,2018,2523.0,12.0,60000.0
+Double Cabin bolero on Sell with full condition (Mahindra),1350000.0,Mahindra,28,Diesel,0,Not Specified,Auto4WD,1,2014,1032.0,16.52,45498.73
+Like New 2021 Suzuki Wagon R up for sale (Maruti Suzuki),2275000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2021,1000.0,17.74,15000.0
+Hyundai I 10 Megna car On sell. (Hyundai),1325000.0,Hyundai,24,Petrol,3,Silver,Auto2WD,0,2009,1200.0,15.0,70000.0
+Swift Zxi 2015 Model With Push Bottom On Sale (Maruti Suzuki),2149999.0,Maruti Suzuki,30,Petrol,3,Red,Manual2WD,2,2015,1200.0,16.0,41100.0
+2017 model bolero flat body sale or exng with car (Mahindra),1450000.0,Mahindra,28,Petrol,3,White,Manual2WD,2,2017,2500.0,11.86,53000.0
+Maruti Suzuki Alto (Maruti Suzuki),1100000.0,Maruti Suzuki,30,Petrol,3,silver,PowerSteering,4,2011,1000.0,17.0,58000.0
+Honda City Zxi (Honda),1100000.0,Honda,23,Petrol,3,Silver,Manual2WD,2,2007,1500.0,14.27,75000.0
+Nissan Patrol Automatic (Nissan),11500000.0,Nissan,33,Diesel,0,Silver,Auto4WD,1,2014,3000.0,9.87,72997.78
+Hyundai i20 Active (Hyundai),2500000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2016,1200.0,15.0,81000.0
+Daihatsu terios 2014 model for sale (Daihatsu),4300000.0,Daihatsu,12,Petrol,3,White,Manual4WD,3,2014,1500.0,15.38,59000.0
+Santro For Sale (Hyundai),1150000.0,Hyundai,24,Petrol,3,Black,Manual2WD,2,2007,1096.0,13.0,57000.0
+2007 model maruti sujuki 800 car (Maruti Suzuki),515000.0,Maruti Suzuki,30,Petrol,3,white,Auto2WD,0,2007,796.0,19.0,27659.38
+2002 model maruti 800 car (Maruti Suzuki),365000.0,Maruti Suzuki,30,Petrol,3,white,Auto2WD,0,2002,796.0,18.0,56000.0
+Cargo Van (Maruti Suzuki),350000.0,Maruti Suzuki,30,Petrol,3,Whitr,Auto2WD,0,2010,800.0,10.0,80000.0
+Crane (Other Brands),2500000.0,Other Brands,34,Petrol,3,Not Specified,Manual2WD,2,2010,1325.0,14.32,47032.16
+Swift Vxi 2009 (Maruti Suzuki),1385000.0,Maruti Suzuki,30,Petrol,3,asure blue,Manual2WD,2,2009,1300.0,14.0,76500.0
+Tata Ace xL (Tata),950000.0,Tata,45,Diesel,0,Cream,Manual2WD,2,2020,700.0,15.98,28250.0
+MG ZS EV 2021 model (Other Brands),5100000.0,Other Brands,34,Electric,1,White,Auto2WD,0,2021,2353.0,12.22,45967.39
+Jimny Suv (Maruti Suzuki),1700000.0,Maruti Suzuki,30,Petrol,3,Army green,Manual4WD,3,1998,1200.0,18.0,98000.0
+Santro (Hyundai),2225000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2021,1086.0,15.0,15000.0
+Hyundai i20 Asta 1.4 Automatic for Sale!!! (Hyundai),1800000.0,Hyundai,24,Petrol,3,Marron,Auto2WD,0,2010,1400.0,14.96,76342.0
+Hyundai Santro Era 2021(9851008482) (Hyundai),2225000.0,9851008482,9,Petrol,3,Grey,Manual2WD,2,2021,1100.0,13.01,15000.0
+Hyundai Santro 2014 Silver (Hyundai),1600000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2014,1186.0,14.0,35000.0
+For Sale (Eicher),650000.0,Eicher,17,Diesel,0,Not Specified,Auto4WD,1,2015,1035.0,16.7,55924.5
+nissan supersaloon sedan car (Nissan),1250000.0,Nissan,33,Petrol,3,metalic very light gold,Manual2WD,2,2006,1596.0,13.0,69000.0
+Swift Zxi 2016 (Maruti Suzuki),2260000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2016,1200.0,16.0,42000.0
+2011 BOLERO DOUBLE CAB 4WD (Mahindra),950000.0,Mahindra,28,Diesel,0,WHITE,Manual4WD,3,2011,2523.0,12.0,77000.0
+Single Hand 2015 Swift dzire zxi (Maruti Suzuki),2100000.0,Maruti Suzuki,30,Petrol,3,grey,Manual2WD,2,2015,1197.0,14.0,47000.0
+Single hand 2010 i20 asta (Hyundai),1575000.0,Hyundai,24,Petrol,3,grey,Manual2WD,2,2010,1197.0,13.0,58000.0
+Modified Small Hatchback Daihatshu cuore! (Daihatsu),575000.0,Daihatsu,12,Petrol,3,Blue,Manual2WD,2,1997,850.0,12.0,98521.0
+14 model Bolero is in sale (Mahindra),1050000.0,Mahindra,28,Diesel,0,White,Manual2WD,2,2014,2900.0,10.0,72357.61
+Ecosport Signature 2018(9851008482) (Ford),3550000.0,9851008482,9,Petrol,3,Blue,Manual2WD,2,2018,1500.0,15.0,39060.3
+Tata Zest 2017 (Tata),2400000.0,Tata,45,Petrol,3,Silver,Manual2WD,2,2017,1200.0,15.0,29000.0
+Hyundai eon era+ (Hyundai),1075000.0,Hyundai,24,Petrol,3,blue,Manual2WD,2,2013,814.0,22.0,45000.0
+Scorpio S4 Urgently Sell Ma (Mahindra),2650000.0,Mahindra,28,Diesel,0,White,Auto2WD,0,2015,2179.0,15.0,155000.0
+Ford Figo Titanium 2013 (Ford),1200000.0,Ford,20,Petrol,3,White,Manual2WD,2,2013,1200.0,15.0,56000.0
+Automatic Suzuki celerio on sale (Maruti Suzuki),1800000.0,Maruti Suzuki,30,Petrol,3,metallic green,Auto2WD,0,2014,1000.0,12.0,47000.0
+Santro 2010 Fresh (Hyundai),1300000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2010,1100.0,12.0,75000.0
+Toyota Pickup (Toyota),875000.0,Toyota,46,Diesel,0,red,Auto4WD,1,1997,2800.0,10.25,71412.12
+santro bikrima (Hyundai),1025000.0,Hyundai,24,Petrol,3,grey,Manual2WD,2,2006,1100.0,18.0,100000.0
+Suzuki Swift 2007 (Maruti Suzuki),1100000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2017,1300.0,17.17,72256.0
+scorpio2015 (Mahindra),1700000.0,Mahindra,28,Diesel,0,white,Auto4WD,1,2015,1200.0,16.2,56575.21
+2014 modal ko mahendra sell (Mahindra),895000.0,Mahindra,28,Diesel,0,silbar,Auto2WD,0,2014,5223.0,12.0,9800.0
+Hyundai i10 magna 1200 cc on sell (Hyundai),1275000.0,Hyundai,24,Petrol,3,blue,Manual2WD,2,2008,1200.0,14.0,62000.0
+Nexon ev xz+ (Tata),3600000.0,Tata,45,Electric,1,Blue and white,Auto2WD,0,2021,2000.0,270.0,25000.0
+Alto taxi (Maruti Suzuki),2550000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Auto2WD,0,2018,800.0,15.0,34177.63
+Santro full option (Hyundai),1035000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2006,1086.0,15.0,68500.0
+Ford freestyle titanium 2018 (Ford),2300000.0,Ford,20,Petrol,3,Cream,Auto2WD,0,2018,1200.0,16.0,47000.0
+"Fresh, single handed, driven by doctor i10 sportz (Hyundai)",1485000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2010,1200.0,14.0,46374.0
+KIA SPORTAG on sale (Kia),2000000.0,Kia,27,Diesel,0,Coffee,Auto4WD,1,2006,2000.0,12.0,54000.0
+Hyundai tucson 1991 CC Fully loaded Four wheel 4×4 (Hyundai),2050000.0,Hyundai,24,Diesel,0,maroon,Auto4WD,1,2009,1991.0,16.0,85000.0
+Sonata (Hyundai),2700000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2010,2000.0,10.0,50000.0
+Kia Niro Ev (Kia),5500000.0,Kia,27,Electric,1,Silver,Auto2WD,0,2019,1879.0,10.88,46000.0
+Scorpio Pick Up 2016 4wd,2300000.0,Scorpio,40,Diesel,0,Silver,Manual4WD,3,2016,2500.0,18.0,60965.0
+isuzu v-cross (Other Brands),4499999.0,Other Brands,34,Diesel,0,sliver,Manual4WD,3,2017,2499.0,12.44,56000.0
+Ford Ecosport (Ford),1770000.0,Ford,20,Petrol,3,Black,Manual2WD,2,2015,1500.0,14.47,75000.0
+Land cruiser Prado vx 2017 model (Toyota),24000000.0,Toyota,46,Diesel,0,Silver,Auto4WD,1,2017,3000.0,10.53,78564.0
+2003 model ko Omni seater van on sale (Maruti Suzuki),400000.0,Maruti Suzuki,30,Petrol,3,white,Auto2WD,0,2003,796.0,14.0,70000.0
+Toyota Corolla LX exceptional condition for sale (Toyota),2050000.0,Toyota,46,Petrol,3,Red,Manual2WD,2,2009,1704.0,18.0,77000.0
+Excellent 2012 ford Figo with 50 percent finance (Ford),985000.0,Ford,20,Petrol,3,Red,Manual2WD,2,2012,1200.0,12.0,52000.0
+Ford EcoSport wanted (Ford),1800000.0,Ford,20,Petrol,3,White,Manual2WD,2,2016,1435.0,13.9,50000.0
+Excellent Singlehand 2016 breeza (Maruti Suzuki),2490000.0,Maruti Suzuki,30,Petrol,3,Black and white,Manual2WD,2,2016,1300.0,18.0,47000.0
+Taxi 2004 For Sale (Maruti Suzuki),699000.0,Maruti Suzuki,30,Petrol,3,white,Manual2WD,2,2004,800.0,69.0,69000.0
+Excellent Condition Suzuki Swift Vxi 2009 on sale (Maruti Suzuki),1375000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2009,1298.0,13.0,36081.43
+Santro 2003 Model (Hyundai),775000.0,Hyundai,24,Petrol,3,Blue,Manual2WD,2,2003,1100.0,15.0,80000.0
+Ford Eco Sport on sale (Ford),2150000.0,Ford,20,Petrol,3,White,Auto2WD,0,2015,1500.0,14.0,42000.0
+Need Hyundai i10 (Hyundai),1400000.0,Hyundai,24,Petrol,3,Not Specified,Auto2WD,0,2012,1259.0,16.85,69273.18
+i20 2016 urgent sale (Hyundai),2400000.0,Hyundai,24,Petrol,3,navy blue,Manual2WD,2,2016,1200.0,14.67,30000.0
+"urgent sell,9844502651.9813628286 (Mahindra)",1500000.0,Mahindra,28,Diesel,0,white,Auto4WD,1,2020,1200.0,50.0,38225.2
+urjent (Tata),1050000.0,Tata,45,Diesel,0,blue,Auto2WD,0,2021,800.0,18.0,30000.0
+Hyundai I10 magna 2014 (Hyundai),1750000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2014,1200.0,14.0,93000.0
+I20 Magna (Hyundai),1450000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2010,1200.0,12.0,53000.0
+Isuzu higher lander truck (Other Brands),4500000.0,Other Brands,34,Diesel,0,white,Manual4WD,3,2020,2500.0,11.0,55000.0
+car (Chevrolet),575000.0,Chevrolet,11,Petrol,3,Not Specified,Manual2WD,2,2012,1000.0,15.27,25000.0
+yodha ba 18 cha 2125 (Tata),900000.0,Tata,45,Diesel,0,white,Manual2WD,2,2017,2900.0,10.0,22535.33
+6 lakh good condition all tyre new (Kia),600000.0,Kia,27,Petrol,3,Gray,Auto2WD,0,2004,1300.0,13.78,45000.0
+Ssangyong Rexton Automatic 4WD (Ssangyong),11000000.0,Ssangyong,44,Diesel,0,Black,Auto4WD,1,2017,2157.0,14.27,35000.0
+Nissan micra 2017 is on sale (Nissan),1450000.0,Nissan,33,Petrol,3,silver,Manual2WD,2,2017,1200.0,12.0,40000.0
+Ecosport Titanium Full Option 2021 Ford (Ford),3450000.0,Ford,20,Petrol,3,Silver,Manual2WD,2,2021,1497.0,16.0,30000.0
+Ford Figo (Ford),1600000.0,Ford,20,Diesel,0,red,Manual4WD,3,2017,1656.0,327.0,70000.0
+Celerio X ZXI 2018 Maruti Suzuki (Maruti Suzuki),2150000.0,Maruti Suzuki,30,Petrol,3,White,Auto4WD,1,2018,998.0,20.0,38000.0
+2008 MODEL TOYOTA PRADO JEEP ON SALE (Toyota),7000000.0,Toyota,46,Diesel,0,SILVER,Manual4WD,3,2008,3000.0,6.0,110000.0
+Kia Sportage 2010 AWD for sell (Kia),2450000.0,Kia,27,Petrol,3,Grey,Auto4WD,1,2010,1998.0,10.0,56000.0
+Bolero (Tata),1600000.0,Tata,45,Diesel,0,White,Manual4WD,3,2016,2523.0,13.54,57290.46
+Honda Amaze 1.2 SMT 2014 (Honda),1775000.0,Honda,23,Petrol,3,Light Brown,Manual2WD,2,2014,1200.0,13.63,57000.0
+Nissan Sunny FE 1998 (Diesel) (Nissan),425000.0,Diesel,14,Diesel,0,Metallic Silver,Manual2WD,2,1998,2000.0,12.15,42225.71
+2014 model single hand alto car (Maruti Suzuki),1250000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2014,800.0,17.0,23000.0
+Swift VXI 2016 (Maruti Suzuki),2000000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2016,1200.0,16.0,49000.0
+Land Cruiser Prado 1998 On Sale (Toyota),3400000.0,Toyota,46,Diesel,0,Blue,Manual4WD,3,1998,2800.0,10.0,146000.0
+Hyundai Creta S 2015 (Hyundai),2950000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2015,1600.0,12.41,34516.2
+Urgent Sale (Safari) (Tata),850000.0,Safari,38,Diesel,0,Sllver&Gray,Auto2WD,0,2006,2950.0,12.0,1500.0
+Second hand isuzu Dmax (Other Brands),1500000.0,Other Brands,34,Diesel,0,White,Manual2WD,2,2018,2999.0,9.83,35000.0
+Second hand car (Tata),1300000.0,Tata,45,Diesel,0,Dew white,Manual2WD,2,2014,1248.0,18.0,50000.0
+brand new suzuki ignis 2022 (Maruti Suzuki),3474000.0,Maruti Suzuki,30,Petrol,3,Nexa blue,Manual2WD,2,2022,1197.0,17.0,315.0
+urjent sale (Hyundai),1125000.0,Hyundai,24,Petrol,3,gray,Auto2WD,0,2008,1086.0,14.0,76009.0
+Sale of Car (Datsun),1500000.0,Datsun,13,Petrol,3,Cream,PowerSteering,4,2017,1200.0,13.81,14000.0
+BMW 318i 2003 Model with Automatic Gear (Other Brands),4500000.0,Other Brands,34,Petrol,3,Blue,Auto2WD,0,2003,2000.0,10.3,62000.0
+Nissan Super Saloon 2007 Model (Nissan),1250000.0,Nissan,33,Petrol,3,Golden,Manual2WD,2,2007,1500.0,13.72,90000.0
+Ford Endeavour 2016 Model with Automatic Gear (Ford),8300000.0,Ford,20,Diesel,0,White,Auto4WD,1,2016,3200.0,12.0,73000.0
+Tata ALTROZ top verient (Tata),2900000.0,Tata,45,Petrol,3,Silver,Manual2WD,2,2021,1200.0,16.0,13000.0
+venue (Hyundai),3100000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2020,1200.0,20.0,6700.0
+toyota lx 2008 (Toyota),1950000.0,Toyota,46,Petrol,3,gray,Manual2WD,2,2008,1600.0,11.0,71000.0
+Hundai tucson 2009 on sell (Hyundai),2100000.0,Hyundai,24,Diesel,0,silver,Manual4WD,3,2009,2000.0,12.0,90000.0
+Kia Hiace for sale. (Kia),1400000.0,Kia,27,Diesel,0,Silver,Manual2WD,2,2011,2600.0,12.83,114000.0
+suzuki (Maruti Suzuki),860000.0,Maruti Suzuki,30,Petrol,3,red,Manual2WD,2,2009,800.0,17.0,67.0
+Hyundai I10 for sale (Hyundai),1850000.0,Hyundai,24,Petrol,3,Grey,PowerSteering,4,2015,1100.0,13.33,19800.0
+Santro Xing 10 model Gandaki Zone (Hyundai),1165000.0,Hyundai,24,Petrol,3,Red berry,Manual2WD,2,2010,1075.0,50.0,50000.0
+Santro Xing 2007 full option (Hyundai),950000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2007,1047.0,18.0,67000.0
+VW POLO 1.6 (Volkswagen),2200000.0,Volkswagen,49,Petrol,3,silver,Manual2WD,2,2014,1600.0,15.0,47000.0
+Maruti 2019cargo van (Maruti Suzuki),685000.0,Maruti Suzuki,30,Petrol,3,white,Auto2WD,0,2019,800.0,12.0,69220.46
+Cheverolet spark (american brand) (Chevrolet),725000.0,american brand,51,Petrol,3,Red,Manual2WD,2,2009,995.0,15.81,63000.0
+Creta XsO CVT auto top 2021 (Hyundai),6650000.0,Hyundai,24,Petrol,3,White,Auto2WD,0,2021,1499.0,13.0,17000.0
+"VOLKSWAGEN POLO 1.6 , 2014 model, Hatchback (Volkswagen)",2000000.0,Volkswagen,49,Petrol,3,silver,PowerSteering,4,2014,1600.0,13.5,21000.0
+Baleno Zeta 2016 Bagmati (Maruti Suzuki),2250000.0,Maruti Suzuki,30,Petrol,3,Polar white,Manual2WD,2,2016,1200.0,16.0,59000.0
+Excellent Condition Alto 800 Lxi 2015 For Sell (Maruti Suzuki),1250000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2015,800.0,18.0,40000.0
+omni cargo (Maruti Suzuki),635000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2018,936.0,15.8,11801.81
+Car (Other Chinese Brands),1000000.0,Other Chinese Brands,35,Petrol,3,Red,Manual2WD,2,2008,1300.0,12.92,20000.0
+chevrolet aveo luxurious car for sale (Chevrolet),1050000.0,Chevrolet,11,Petrol,3,BALCK,Manual4WD,3,2008,1600.0,11.0,68000.0
+volkswagen polo highline 1.6 2013 (Volkswagen),1675000.0,Volkswagen,49,Petrol,3,silver,Manual2WD,2,2013,1600.0,14.0,53846.69
+Like a new MG zs (EV) 110 kw (Other Brands),5500000.0,EV,15,Electric,1,White,Auto2WD,0,2021,2200.0,400.0,20000.0
+Sell or exchange (Ford),1975000.0,Ford,20,Petrol,3,Sea grey,Manual2WD,2,2013,1500.0,15.0,31000.0
+car on sale (Mitsubishi),2250000.0,Mitsubishi,32,Diesel,0,white,Manual4WD,3,2007,2495.0,10.88,42031.85
+Tucson 2009 model URGENT sale (Hyundai),2300000.0,Hyundai,24,Diesel,0,Blue,Manual4WD,3,2009,1997.0,13.5,67000.0
+Mahindra Scorpio S5 4WD (Mahindra),3900000.0,Mahindra,28,Diesel,0,White,Manual4WD,3,2017,2179.0,14.0,70.0
+Hyundai Elantra 2011 Model (Hyundai),3000000.0,Hyundai,24,Petrol,3,Blue Sky Metallic,Manual2WD,2,2011,1600.0,11.44,65000.0
+kia rio fully fresh (Kia),875000.0,Kia,27,Petrol,3,silver sky,Manual2WD,2,2007,1400.0,11.0,68000.0
+car (Maruti Suzuki),1300000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2010,1200.0,13.0,68000.0
+Suzuki WagonR 2016 vxi single hand excellent condi (Maruti Suzuki),1650000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2016,1000.0,14.0,37000.0
+Suzuki swift 2021 Zxi+ top option single hand (Maruti Suzuki),2850000.0,Maruti Suzuki,30,Petrol,3,Metallic white,Manual2WD,2,2021,1200.0,14.0,22000.0
+Brand New Brezza 2023 Model (Maruti Suzuki),5299000.0,Maruti Suzuki,30,Hybrid,2,Not Specified,Manual2WD,2,2023,1462.0,19.0,314.0
+ford ecosport 2014 automatic (Ford),2450000.0,Ford,20,Petrol,3,silver,Auto2WD,0,2014,1439.0,14.0,44000.0
+Hyundai Tucson On Sale (Hyundai),2150000.0,Hyundai,24,Diesel,0,marron,Auto4WD,1,2008,2000.0,12.0,65000.0
+Maruti Suzuki Swift ZXI (Maruti Suzuki),2625000.0,Maruti Suzuki,30,Petrol,3,Silky Silver,Manual2WD,2,2018,1200.0,12.0,33598.0
+Polo on sale (Volkswagen),2350000.0,Volkswagen,49,Petrol,3,Chocolate,Manual2WD,2,2016,1699.0,10.0,47000.0
+Volkswagen Polo 1.2 Trendline 2012 Model (Volkswagen),1400000.0,Volkswagen,49,Petrol,3,Red,Manual2WD,2,2012,2021.0,76.17,83194.4
+Suzuki Wagon R on sales (Maruti Suzuki),1100000.0,Maruti Suzuki,30,Petrol,3,Red,Manual2WD,2,2010,1061.0,15.0,49565.0
+Eco cargo van: model 2019 (Maruti Suzuki),1250000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2019,1196.0,15.67,38103.15
+Hyundai Creta 2016 (Hyundai),3200000.0,Hyundai,24,Petrol,3,Not Specified,PowerSteering,4,2016,1499.0,13.34,21500.0
+Scorpio s4 2016 model (Mahindra),3100000.0,Mahindra,28,Diesel,0,sky blue 🔵,Manual2WD,2,2016,2200.0,12.0,43236.51
+Grand i10 Asta 2014 (Hyundai),2090000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2014,1197.0,14.47,42000.0
+I10 Megna 2013 red color (Hyundai),1600000.0,Hyundai,24,Petrol,3,Red,Manual2WD,2,2013,1200.0,13.0,62000.0
+hyundai i 20active s 2016 on cell. (Hyundai),2499000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2016,1200.0,14.67,52600.1
+Kia sonet (Kia),3230000.0,Kia,27,Petrol,3,Not Specified,Manual2WD,2,2021,1618.0,13.46,8500.0
+kia Picanto Ex 2010 (Kia),1175000.0,Kia,27,Petrol,3,Skey Blue,Manual2WD,2,2010,1086.0,15.41,50000.0
+Grand i10 Magna 2015 (Hyundai),2050000.0,Hyundai,24,Petrol,3,Sleek Silver,Manual2WD,2,2015,1197.0,14.5,39000.0
+Nissan kicks 2021 model (Nissan),4100000.0,Nissan,33,Petrol,3,grey,Manual2WD,2,2021,1600.0,14.18,32000.0
+"2005 model kia picanto fulloption sale,exng bikes (Kia)",795000.0,Kia,27,Petrol,3,Black,Manual2WD,2,2005,1000.0,14.93,65000.0
+Brezza ZXI 2019 (Maruti Suzuki),3500000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2019,2498.0,12.05,17000.0
+Hyundai grand i10 nios 2021 (Hyundai),2950000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2021,1200.0,13.0,6000.0
+2008 model kia sorento fully loaded sale ot exng (Kia),2050000.0,Kia,27,Diesel,0,Silver,Manual4WD,3,2008,2500.0,10.78,65000.0
+maruti van (Maruti Suzuki),690000.0,Maruti Suzuki,30,Petrol,3,silver,Auto2WD,0,2012,800.0,18.0,65000.0
+sell for mahindra pick-up bullero 1300000 (Mahindra),1300000.0,Mahindra,28,Diesel,0,white,Manual2WD,2,2013,1600.0,18.0,81000.0
+"Datsun Redi Go, 2016 (Datsun)",1150000.0,Datsun,13,Petrol,3,Grey,Manual2WD,2,2016,800.0,22.0,17000.0
+Vitara brezza 2023 booking open😍 (Maruti Suzuki),5299000.0,Maruti Suzuki,30,Hybrid,2,Red and black silver,Manual2WD,2,2023,1462.0,19.0,314.0
+Nissan Magnite 2021 Urgent sale (Nissan),2700000.0,Nissan,33,Petrol,3,White,Auto2WD,0,2021,1000.0,17.5,16000.0
+Sale or Exchange: Volkswagen Cross Polo 1.6 (Volkswagen),2600000.0,Volkswagen,49,Petrol,3,Silver,Manual2WD,2,2016,1600.0,13.65,23000.0
+Ford Ranger XL 3.2c 2017 Model Single Hand On Sale (Ford),5500000.0,Ford,20,Diesel,0,Silver,Manual4WD,3,2017,3200.0,11.0,61000.0
+hyundai creta 2018 on sale (Hyundai),3775000.0,Hyundai,24,Petrol,3,POLAR WHITE,Manual2WD,2,2018,1500.0,14.0,35000.0
+Maruti Suzuki alto k10 vxi. (Maruti Suzuki),1450000.0,Maruti Suzuki,30,Petrol,3,Red,Auto2WD,0,2016,998.0,19.0,45000.0
+Tata zest XT 2015 model 1200 cc (Tata),2500000.0,Tata,45,Petrol,3,Not Specified,Manual2WD,2,2015,1200.0,16.3,54324.15
+Fiat Punto Dynamic 2013 for Sale (Fiat),1100000.0,Fiat,19,Diesel,0,Silver,Manual2WD,2,2013,1248.0,18.0,69500.0
+"I10 Sportz Grey ,2011 Model 2 Hand , 52000 Km Run (Hyundai)",1580000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2011,1197.0,16.0,52000.0
+omni van 8 seater 2016 single hand (Maruti Suzuki),850000.0,Maruti Suzuki,30,Petrol,3,silver,Auto2WD,0,2016,800.0,16.0,34000.0
+mahindra supro t4 (Mahindra),750000.0,Mahindra,28,Diesel,0,red,Auto2WD,0,2018,1000.0,13.0,75000.0
+i 10 sale 9813637744 fullopson grey ktm rs 1445/- (Hyundai),1445000.0,Hyundai,24,Petrol,3,grey light,Manual2WD,2,2011,1200.0,18.0,51700.0
+Car (Toyota),2500000.0,Toyota,46,Petrol,3,Ash,PowerSteering,4,2011,1266.0,70.0,70000.0
+SWIFT ZXI 2014 On Urgent Sale (Maruti Suzuki),1850000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2014,1197.0,15.0,44466.67
+Hyundai Creta 2021 sx ivt top model (Hyundai),6500000.0,Hyundai,24,Petrol,3,Typoon silver,Auto2WD,0,2021,1500.0,15.0,6000.0
+skoda laura 2011 (Skoda),1525000.0,Skoda,42,Diesel,0,black,Manual2WD,2,2011,1896.0,10.0,70000.0
+Hyundai i10 magna (Hyundai),1500000.0,Hyundai,24,Petrol,3,Carbon grey,Auto2WD,0,2011,1086.0,15.2,52484.83
+MG ZS EV 2021 model (Other Brands),5400000.0,Other Brands,34,Electric,1,White,Auto2WD,0,2021,1898.0,10.73,24100.0
+Hyundia I 10 magna (Hyundai),1700000.0,Hyundai,24,Petrol,3,Not Specified,Auto2WD,0,2012,1197.0,14.29,48000.0
+Grand i10 Sportz on Sale (Hyundai),2475000.0,Hyundai,24,Petrol,3,Gray,Manual2WD,2,2018,1200.0,16.0,36500.0
+Ford EcoSport Titanium 2015 Model (Ford),2200000.0,Ford,20,Petrol,3,silver,Manual2WD,2,2015,1627.0,12.07,49682.21
+Hyundai Tucson 2009 model (Hyundai),2000000.0,Hyundai,24,Diesel,0,Green,Manual4WD,3,2009,1775.0,13.09,60116.58
+Maruti Omni Van 2018 (Maruti Suzuki),920000.0,Maruti Suzuki,30,Petrol,3,silver,Auto2WD,0,2018,796.0,13.0,35000.0
+Toyota Etios V (Toyota),1700000.0,Toyota,46,Petrol,3,Grey,PowerSteering,4,2014,1500.0,15.83,52000.0
+Zen Stailo Vxi 2010 (Maruti Suzuki),1025000.0,Maruti Suzuki,30,Petrol,3,goldenó,Manual2WD,2,2010,996.0,18.73,51000.0
+Brezza on sale (Maruti Suzuki),4200000.0,Maruti Suzuki,30,Petrol,3,silver,PowerSteering,4,2021,1500.0,16.48,16000.0
+TOYOTA YARIS MADE IN JAPAN (Toyota),1599000.0,Toyota,46,Petrol,3,Red,Manual2WD,2,2007,1496.0,15.0,59836.83
+Suzuki Swift VXI 2013 (Maruti Suzuki),1700000.0,Maruti Suzuki,30,Petrol,3,Pearl White,Manual2WD,2,2013,1200.0,15.0,60300.53
+Mahindra kuv100 k6 (Mahindra),1750000.0,Mahindra,28,Petrol,3,Red,Manual2WD,2,2016,1000.0,16.0,44532.0
+Datsun Go (Datsun),1100000.0,Datsun,13,Petrol,3,grey,Auto2WD,0,2014,1215.0,16.0,65000.0
+Suzuki baleno 2017 (Maruti Suzuki),2050000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2017,1198.0,15.57,45000.0
+Kia Picanto 2006 (Kia),950000.0,Kia,27,Diesel,0,Blue,PowerSteering,4,2006,1086.0,12.0,72000.0
+Suzuki (Maruti Suzuki),520000.0,Maruti Suzuki,30,Petrol,3,गेस विज,Manual2WD,2,2001,1061.0,16.0,75.0
+Vw Vento 1.6L Highline Plus 2013 Exchange Also (Volkswagen),1775000.0,Volkswagen,49,Petrol,3,Sliver,Manual2WD,2,2013,1600.0,14.0,53500.0
+Mahindra Scorpio S6 plus 2017 (Mahindra),3400000.0,Mahindra,28,Diesel,0,Silver,Manual2WD,2,2017,2200.0,13.41,62211.7
+"Kia Sonet , Kiasonet Car SUV (Kia)",3125000.0,Kia,27,Petrol,3,Not Specified,Manual2WD,2,2021,1200.0,12.0,42000.0
+Bolero single cab mahindra sell (Mahindra),1200000.0,Mahindra,28,Diesel,0,White,Auto2WD,0,2016,2151.0,14.1,100000.0
+Ford Aspire 2015 (Ford),1575000.0,Ford,20,Petrol,3,Smoke Grey,Manual2WD,2,2015,1196.0,13.0,485780.0
+Hyundai Creta SXO 2019 model (Hyundai),5150000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2019,1981.0,13.22,31784.83
+Ford Freestyle 2020 model (Ford),2450000.0,Ford,20,Petrol,3,Silver,Manual2WD,2,2020,1356.0,15.53,32074.59
+Hyundai Santro Xing 2010 model (Hyundai),1150000.0,Hyundai,24,Petrol,3,black,Manual2WD,2,2010,1279.0,13.14,36687.7
+Maruti zen (Maruti Suzuki),335000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2000,1193.0,14.52,67737.56
+Volkswagen Vento TSl AT Sales & exchange offer (Volkswagen),5240000.0,Volkswagen,49,Petrol,3,Not Specified,Auto2WD,0,2021,1835.0,11.13,19955.18
+TATA TIGOR XZ+ (Tata),1999000.0,Tata,45,Petrol,3,Silver,Manual2WD,2,2017,1199.0,20.0,45044.91
+Isuzu Dmax Vcross (Other Brands),5200000.0,Other Brands,34,Diesel,0,Obsidian grey,Manual4WD,3,2017,2499.0,12.44,60000.0
+Hyundai i20 Active S|2017| Urgent sale| Full fresh (Hyundai),2725000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2017,1200.0,14.0,30000.0
+Hyundai Xcent Sx O 2014 (Hyundai),2050000.0,Hyundai,24,Petrol,3,Silky Silver,Manual2WD,2,2014,1196.0,14.53,54383.0
+Maruti suzuki wagoner 2015 (Maruti Suzuki),1455000.0,Maruti Suzuki,30,Petrol,3,Marun,Manual2WD,2,2015,1000.0,16.63,52000.0
+Maruti Suzuki swift dzire 2009 ON SALE (Maruti Suzuki),1170000.0,Maruti Suzuki,30,Petrol,3,blue,Auto2WD,0,2009,1200.0,15.0,85000.0
+TATA 1109 (Tata),2799000.0,Tata,45,Diesel,0,white,Manual2WD,2,2018,3700.0,9.64,90000.0
+Bolero pick up (Mahindra),1800000.0,Mahindra,28,Diesel,0,White,Auto4WD,1,2018,1999.0,12.27,90000.0
+Kia on sales (Kia),550000.0,Kia,27,Petrol,3,White,Auto2WD,0,2004,1200.0,10.0,320000.0
+गाडी बिक्रीमा (Mahindra),2100000.0,Mahindra,28,Diesel,0,white,Manual4WD,3,2015,2200.0,15.0,64000.0
+Scorpio S4+ (Mahindra),3850000.0,Mahindra,28,Diesel,0,Blue,Manual4WD,3,2017,2200.0,15.0,5600.0
+Hyundai Creta 2017 base model SingleHand For Sale (Hyundai),3285000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2017,1600.0,10.0,49000.0
+Single Hand Used Fully Loaded Family Car Swift VXI (Maruti Suzuki),1675900.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2012,1197.0,18.0,55000.0
+"Volkswagen polo 1.6 2011 silver, fresh condition, (Volkswagen)",1500000.0,Volkswagen,49,Petrol,3,Silver,Manual2WD,2,2011,1600.0,12.0,55000.0
+Car sell on urgent (Honda),1290000.0,Honda,23,Petrol,3,Maroon,Manual4WD,3,2007,1350.0,13.0,75000.0
+PROTON WIRA (2003) (Other Brands),575000.0,2003,2,Petrol,3,Not Specified,Manual2WD,2,2003,1498.0,15.42,19000.0
+picanto silver (Kia),1050000.0,Kia,27,Petrol,3,silver,Manual2WD,2,2009,1100.0,14.34,83000.0
+Hyundai Creta SX+ 2017 Model Fulloptions On Sale (Hyundai),4100000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2017,1500.0,12.0,41000.0
+Ford figo titanium 2015 (Ford),1250000.0,Ford,20,Petrol,3,Grey,Auto2WD,0,2015,1200.0,15.0,50000.0
+Renault duster RXS 2018 (Renault),2500000.0,Renault,37,Petrol,3,Not Specified,Manual2WD,2,2018,1500.0,15.31,50000.0
+Urgent sell (Tata),950000.0,Tata,45,Diesel,0,Blue,Auto2WD,0,2021,600.0,20.0,123.0
+Picanto 2008 Silver full option (Kia),900000.0,Kia,27,Petrol,3,silver,Manual2WD,2,2008,1100.0,14.0,53000.0
+2013 model ford figo singlehand sale or exng bikes (Ford),1250000.0,Ford,20,Petrol,3,Silver,Manual2WD,2,2013,1200.0,14.0,43000.0
+2019 Hyundai Grand i10 Sportz (Hyundai),2575000.0,Hyundai,24,Petrol,3,Titan Gray Metallic,Manual2WD,2,2019,1197.0,14.42,20000.0
+Mahindra xuv 500 w10 2016 model for sale (Mahindra),3850000.0,Mahindra,28,Diesel,0,Orange,Manual4WD,3,2016,2200.0,13.65,53000.0
+Maruti Suzuki Alto 800 for sale (Maruti Suzuki),1500000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Auto2WD,0,2020,1339.0,16.01,34997.09
+Grand I 10 Magna 1.2 (2019 Model) (Hyundai),2550000.0,2019 Model,7,Petrol,3,Silver,Manual2WD,2,2019,1196.0,16.0,17000.0
+sky vetor dozer on sale (Other Brands),4500000.0,Other Brands,34,Diesel,0,Not Specified,Manual4WD,3,2017,2475.0,11.21,47431.93
+TATA VISTA 2010 FOR SALE (Tata),700000.0,Tata,45,Petrol,3,INFINITE BLACK,Manual2WD,2,2010,1300.0,15.0,84000.0
+School bus sale (Other Brands),1050000.0,Other Brands,34,Diesel,0,Yellow,Auto2WD,0,2013,3200.0,10.0,60000.0
+tata motors super ace (Tata),650000.0,Tata,45,Diesel,0,सेतो,PowerSteering,4,2015,1400.0,12.0,150.0
+Mazda 3 (Mazda),1275000.0,Mazda,31,Petrol,3,grey,Manual2WD,2,2005,1600.0,14.0,36000.0
+toyota corolla old vintage 1975 car (Toyota),500000.0,Toyota,46,Petrol,3,Not Specified,Manual4WD,3,1975,1200.0,12.26,50000.0
+"2006 model suzuki japanese vitara 4wd,fully loaded (Maruti Suzuki)",1950000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual4WD,3,2006,2000.0,11.29,75000.0
+Urgent sale Maruti van 2018 Model good condition (Maruti Suzuki),700000.0,Maruti Suzuki,30,Petrol,3,white,Auto4WD,1,2018,796.0,15.0,63000.0
+SWIFT LXI 2005 (Urgent Sale ) All Tax cleared (Maruti Suzuki),899999.0,Urgent Sale,48,Petrol,3,Silver,Manual2WD,2,2005,1200.0,15.65,70000.0
+Hyundai creta sxo petrol 2019 (Hyundai),4850000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2019,1598.0,14.0,41000.0
+four sale swift zxi 2017 model (Maruti Suzuki),2250000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2017,1200.0,15.0,35680.0
+Japanese Model Mazda 3 On Sale Air Bag N Abs Fresh (Mazda),950000.0,Mazda,31,Petrol,3,Blue,Manual2WD,2,2004,1600.0,10.0,61000.0
+pick up van bikrima (Maruti Suzuki),200000.0,Maruti Suzuki,30,Petrol,3,white,Manual2WD,2,1999,800.0,16.0,20000.0
+Brezza Zxi + petrol 2021 Single owner 9851138810 (Maruti Suzuki),3975000.0,Maruti Suzuki,30,Petrol,3,WhIte,Manual2WD,2,2021,1500.0,15.0,18500.0
+Single hand Honda Jazz VMT Fully Loaded 2016 (Honda),2475000.0,Honda,23,Petrol,3,Morun metallic,Manual2WD,2,2016,1200.0,12.0,37000.0
+Santro (Hyundai),1250000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2009,1096.0,13.0,78000.0
+sales (Mahindra),1200000.0,Mahindra,28,Diesel,0,white,Manual2WD,2,2016,2523.0,13.25,127130.0
+indica 2007 model DLE (Tata),500000.0,Tata,45,Diesel,0,white,Auto2WD,0,2007,1400.0,18.0,53000.0
+Hilux 2010 (Toyota),3500000.0,Toyota,46,Diesel,0,Silver,Manual4WD,3,2010,2500.0,15.0,100000.0
+Car (Volkswagen),1490000.0,Volkswagen,49,Petrol,3,White,Auto4WD,1,2011,1600.0,14.0,38000.0
+I10 on sale (Hyundai),1600000.0,Hyundai,24,Petrol,3,Gray,Manual2WD,2,2012,1100.0,14.0,33000.0
+Hyundai i20 active 2016 model in sell (Hyundai),2650000.0,Hyundai,24,Petrol,3,white,Manual2WD,2,2016,1200.0,14.67,40000.0
+Urgent sale Hundai i20 Active (Hyundai),2950000.0,Hyundai,24,Petrol,3,Sleek Silver,Auto2WD,0,2015,1200.0,12.0,53000.0
+Kia Sportage 2016 model single handed in sell (Kia),5700000.0,Kia,27,Diesel,0,grey,Manual4WD,3,2016,2500.0,11.73,36200.0
+Nissan Datsun Redi Go Brand New Condition 5000k (Datsun),1750000.0,Datsun,13,Petrol,3,White,Manual2WD,2,2021,1000.0,16.04,5000.0
+santro full option (Hyundai),1200000.0,Hyundai,24,Petrol,3,red,Auto2WD,0,2005,1000.0,12.0,42000.0
+Alto Taxi 2019 (Maruti Suzuki),280000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2019,800.0,17.0,125000.0
+Scorpio double cab 4wd (Mahindra),2575000.0,Mahindra,28,Diesel,0,Silver,Manual4WD,3,2017,2200.0,12.0,88000.0
+Toyota AVANZA 7 Seater (Toyota),1750000.0,Toyota,46,Petrol,3,Not Specified,Manual2WD,2,2000,1679.0,89.25,58359.4
+Kia picanto 2008 (Kia),880000.0,Kia,27,Petrol,3,Red,PowerSteering,4,2008,1086.0,14.36,70000.0
+FULL FRESH FULLY LOADED HYUNDAI TUCSON ON SALE (Hyundai),1875000.0,Hyundai,24,Diesel,0,Light blue green,Manual4WD,3,2008,2000.0,17.0,66000.0
+Tucson for sale (Hyundai),1850000.0,Hyundai,24,Diesel,0,light sky blue,Manual4WD,3,2007,2000.0,15.0,39658.2
+Maruti Suzuki Swift 2015 Vxi Single Use For Sale (Maruti Suzuki),1875000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2015,1200.0,16.0,48000.0
+Honda City 2014 (Honda),2099000.0,Honda,23,Petrol,3,Maroon,Manual2WD,2,2014,1500.0,12.0,55000.0
+hyundai eon (Hyundai),900000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2012,814.0,14.0,40000.0
+Hyundai i20 Asta Dual Tone (Hyundai),2700000.0,Hyundai,24,Petrol,3,White,Auto2WD,0,2017,1200.0,13.35,37671.75
+tipper (Tata),3800000.0,Tata,45,Diesel,0,white,Manual4WD,3,2019,5883.0,40.0,50000.0
+Maruti Suzuki Zen for sale ! (Maruti Suzuki),450000.0,Maruti Suzuki,30,Petrol,3,sky Blue,Manual2WD,2,2002,993.0,17.0,27000.0
+Maruti Suzuki Brezza Zdi plus 2018 (Maruti Suzuki),3200000.0,Maruti Suzuki,30,Diesel,0,White,Manual2WD,2,2018,1400.0,14.0,43000.0
+Suzuki Swift ZXI (Maruti Suzuki),2300000.0,Maruti Suzuki,30,Petrol,3,Metallic Magma Grey,Manual2WD,2,2016,1248.0,15.3,30000.0
+I20 Sportz Brand New Car for sale. (Hyundai),3600000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2021,1200.0,20.0,16000.0
+Taxi on sell (Maruti Suzuki),211000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Auto4WD,1,2015,975.0,18.39,47715.2
+Renault Duster RXZ+ AWD 2017 DCI for Sale (Renault),3400000.0,Renault,37,Diesel,0,Grey,Auto4WD,1,2017,1500.0,12.0,45000.0
+Tata nano(Sky blue) (Tata),415000.0,Sky blue,43,Petrol,3,Sky blue,Auto4WD,1,2012,624.0,17.0,32564.0
+endeavor (Ford),11000000.0,Ford,20,Diesel,0,white,Auto4WD,1,2016,3200.0,12.0,62000.0
+maruti swift (Maruti Suzuki),2650000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2020,1200.0,19.0,11000.0
+Hyundai i10 Magna 2014 (Hyundai),1700000.0,Hyundai,24,Petrol,3,Maroon Red,Manual2WD,2,2014,1200.0,14.0,39000.0
+DATSUN GO 1.2 2016 FOR SALE (Datsun),1325000.0,Datsun,13,Petrol,3,Maroon,Manual2WD,2,2016,1200.0,12.0,39000.0
+sell (Maruti Suzuki),3200000.0,Maruti Suzuki,30,Diesel,0,maroon color (red),PowerSteering,4,2018,1200.0,14.0,66000.0
+Creta Sx + petrol for sale (Hyundai),3450000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2016,1600.0,12.0,41000.0
+Hyundai i20 Active S 2019 (Single Handed) (Hyundai),3200000.0,Single Handed,41,Petrol,3,White,Manual2WD,2,2019,1400.0,15.0,39000.0
+urgent sell (Tata),3600000.0,Tata,45,Petrol,3,green,Auto2WD,0,2021,1200.0,18.57,36000.0
+Suzuki Balena (2017) For Sale! (Maruti Suzuki),2400000.0,2017,6,Petrol,3,Not Specified,Manual2WD,2,2017,1164.0,14.01,39008.57
+Mitsubishi L200 - 4WD Pickup - Hilux Model (Mitsubishi),2050000.0,Mitsubishi,32,Diesel,0,White,Manual4WD,3,2007,2500.0,8.0,79000.0
+Hyundai Tucson 2009 (Hyundai),2100000.0,Hyundai,24,Diesel,0,Akasilver,Manual4WD,3,2009,1191.0,12.0,65000.0
+Sell (Kia),2515000.0,Kia,27,Diesel,0,Grey,Manual4WD,3,2009,2000.0,10.0,71000.0
+Mahindra KUV 100 K8 (Mahindra),2250000.0,Mahindra,28,Petrol,3,milavared,Auto2WD,0,2016,1198.0,14.0,35000.0
+ford Figo titanium on sale (Ford),1000000.0,Ford,20,Petrol,3,red,Manual2WD,2,2011,1200.0,13.1,80000.0
+Hyundai Tucson ix35 4WD (Hyundai),3650000.0,Hyundai,24,Diesel,0,orange,Manual4WD,3,2011,1995.0,12.0,87000.0
+Toyota Land Cruiser Prado Vx (Toyota),23500000.0,Toyota,46,Diesel,0,Silver,Auto4WD,1,2017,4461.0,8.71,85000.0
+Ford Ranger Autogear 4wd 55 Lakh Bank Available (Ford),8800000.0,Ford,20,Diesel,0,Grey,Auto4WD,1,2020,3200.0,11.31,17000.0
+Volkswagen Tiguan Allspace for sale (Volkswagen),8700000.0,Volkswagen,49,Petrol,3,Uranus Grey,Auto4WD,1,2017,1984.0,85.22,50000.0
+Fresh condition Toyota RAV4 (Toyota),3490000.0,Toyota,46,Petrol,3,Red,Auto4WD,1,2010,2400.0,10.42,84000.0
+Toyota RAV4 2013 Model (Toyota),6500000.0,Toyota,46,Petrol,3,Grey,Manual4WD,3,2013,2500.0,13.35,51706.37
+urgent sale 9841395832 (Mahindra),750000.0,Mahindra,28,Diesel,0,Not Specified,Manual2WD,2,2015,2600.0,12.66,55958.21
+Maruti Suzuki Swift Dzire Zxi 2015 (Maruti Suzuki),2150000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual4WD,3,2015,1197.0,14.7,40014.0
+I10 sportz 1.2 for sale (Hyundai),1599999.0,Hyundai,24,Petrol,3,gry,Manual2WD,2,2011,1200.0,13.0,52000.0
+Kiger On Sell (Renault),2500000.0,Renault,37,Petrol,3,Blue,PowerSteering,4,2021,1000.0,15.0,18000.0
+i10 Hyundai Magna - Silver (Hyundai),1500000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2010,1200.0,14.0,58000.0
+Single handed isuzu s-cab for sale (Other Brands),2975000.0,Other Brands,34,Diesel,0,silver,Manual2WD,2,2018,2500.0,13.0,30000.0
+Ford Figo exi for sale (Ford),1225000.0,Ford,20,Petrol,3,silver,Manual2WD,2,2013,1200.0,13.0,4000.0
+TOYOTA RAV4 FOR SALE (Toyota),3300000.0,Toyota,46,Petrol,3,silver,Auto4WD,1,2015,2494.0,13.43,12000.0
+"Toyota HILUX On Sale RS. 36,00,000 (Toyota)",3600000.0,Toyota,46,Diesel,0,White,Manual4WD,3,2010,2755.0,11.64,27697.96
+Well Maintained Swift Dzire VXI 2012 for sell (Maruti Suzuki),1700000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2012,1200.0,13.0,63000.0
+vehicle available for sale (Other Brands),1500000.0,Other Brands,34,Electric,1,Red,PowerSteering,4,2022,300.0,120.0,3000.0
+Tata bus 1512 euro 3 jodi bus sasto ma (Tata),500000.0,Tata,45,Diesel,0,blue white,Manual4WD,3,2016,1428.0,5.0,60000.0
+KIA Sportage urgent sale (Kia),1875000.0,Kia,27,Diesel,0,maroon red,Manual4WD,3,2007,2000.0,13.0,68000.0
+Hyundai Santafee (Hyundai),8000000.0,Hyundai,24,Diesel,0,RED,Auto4WD,1,2012,2199.0,13.89,9506.14
+tata Indica (Tata),550000.0,Tata,45,Petrol,3,white,PowerSteering,4,2007,1170.0,15.53,77000.0
+Baleno (Maruti Suzuki),2150000.0,Maruti Suzuki,30,Petrol,3,grey,PowerSteering,4,2016,1227.0,16.46,57186.0
+Tata sumo bikrima (Tata),1500000.0,Tata,45,Diesel,0,black,Manual2WD,2,2016,2800.0,11.54,80000.0
+tucson (Hyundai),1750000.0,Hyundai,24,Diesel,0,blue,Auto4WD,1,2006,1992.0,12.0,160000.0
+Hyundai Santro GL plus 2011 Model (Hyundai),1400000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2011,1086.0,14.88,97000.0
+chevtolet (Chevrolet),835000.0,Chevrolet,11,Petrol,3,grey,Manual2WD,2,2010,1400.0,11.0,70100.0
+Single hand grand i10 magna 2018(airbag) on sale (Hyundai),2250000.0,airbag,50,Petrol,3,Red,Manual2WD,2,2018,1200.0,16.02,27000.0
+Skoda fabia on sale (Skoda),1250000.0,Skoda,42,Petrol,3,silver,Manual2WD,2,2012,1200.0,15.56,68000.0
+Volkswagen Polo 1.6 Highline (Volkswagen),2100000.0,Volkswagen,49,Petrol,3,Silver,Manual2WD,2,2015,1600.0,13.89,49000.0
+tata sumo gold ex 2014 (Tata),1250000.0,Tata,45,Diesel,0,गोल्डेन,PowerSteering,4,2014,2956.0,12.52,61237.65
+Mahindra scorpio pickup (Mahindra),2400000.0,Mahindra,28,Diesel,0,Not Specified,Manual4WD,3,2016,2200.0,13.65,38983.93
+Super Fresh Condition 2007 Model Toyota Hilux (Toyota),2695000.0,Toyota,46,Diesel,0,White,Manual4WD,3,2007,2500.0,10.0,80000.0
+Toyota Hilux (Toyota),2695000.0,Toyota,46,Diesel,0,White,Manual4WD,3,2007,2500.0,10.0,80000.0
+Japanese Sirion on Sale (Daihatsu),930000.0,Daihatsu,12,Petrol,3,silver,Manual2WD,2,2007,1300.0,15.0,78000.0
+Tata nexon xza + on sell (Tata),3700000.0,Tata,45,Petrol,3,silver,Auto4WD,1,2021,1200.0,20.0,5000.0
+New Electric taxi booking open (Tata),4500000.0,Tata,45,Electric,1,white,Auto2WD,0,2023,2393.0,11.21,43281.35
+jamma 1350000 maa 15 ko tata sumo (Tata),1400000.0,Tata,45,Diesel,0,selver,Auto2WD,0,2015,2080.0,146.31,80000.0
+Wagonr 2017 model vxi Car sale (Maruti Suzuki),1690000.0,Maruti Suzuki,30,Petrol,3,red,Manual2WD,2,2017,999.0,17.0,31000.0
+Hyundai Kona EV 2021 with only 10000 Km (Hyundai),5550000.0,Hyundai,24,Electric,1,Grey,Auto2WD,0,2021,2018.0,11.59,10000.0
+KIA Sportage on Sale!! (Kia),990000.0,Kia,27,Diesel,0,Maroon,Manual4WD,3,2001,2200.0,13.0,143000.0
+Hyundai i20 Magna 2013 (Hyundai),1735000.0,Hyundai,24,Petrol,3,Chocolate,Manual2WD,2,2013,1197.0,14.0,44000.0
+VOLKSWAGEN POLO GT TSI Autogear 2013 (Volkswagen),2450000.0,Volkswagen,49,Petrol,3,WHite,Auto2WD,0,2013,1200.0,16.04,35000.0
+Single Handed Eeco 7 Seater 2018 For Sell,1700000.0,Eeco,16,Petrol,3,Silver,Manual2WD,2,2018,1200.0,12.0,41000.0
+Toyata Rav4 Autogear 2008 Model On Sale Urgent (Toyota),3800000.0,Toyota,46,Petrol,3,White,Auto4WD,1,2008,2362.0,11.46,91000.0
+Triber Renualt 2021 (Renault),2350000.0,Renault,37,Petrol,3,Metal Mustard,Auto2WD,0,2021,999.0,16.0,14000.0
+Fully fresh Hyundai grand i10 Magna (Hyundai),2225000.0,Hyundai,24,Petrol,3,sleek silver,Manual2WD,2,2016,1197.0,15.0,33000.0
+car on sale (Hyundai),1100000.0,Hyundai,24,Petrol,3,grey,PowerSteering,4,2008,1000.0,14.83,88000.0
+TOYOTA AVANZA 7 Seater (Toyota),1750000.0,Toyota,46,Petrol,3,Not Specified,Manual2WD,2,2000,1679.0,89.25,58359.4
+Mitsubishi pajero 5 door for sale (Mitsubishi),12800000.0,Mitsubishi,32,Diesel,0,Not Specified,Auto4WD,1,2016,3200.0,10.58,49427.65
+grand vitara (Maruti Suzuki),7599000.0,Maruti Suzuki,30,Hybrid,2,Silver,Manual4WD,3,2023,1490.0,29.87,315.0
+Hyundai Creta (Hyundai),3585000.0,Hyundai,24,Petrol,3,sleek sliver,Manual4WD,3,2015,1591.0,12.69,57000.0
+Toyota Hilux (Toyota),7800000.0,Toyota,46,Diesel,0,sliver,Manual4WD,3,2018,2755.0,11.67,40000.0
+Toyota Hilux (Toyota),7800000.0,Toyota,46,Diesel,0,silver,Manual4WD,3,2018,2755.0,11.67,40000.0
+tata winger school van (Tata),1000000.0,Tata,45,Diesel,0,yellow,Manual2WD,2,2010,1900.0,8.0,82000.0
+Toyota hilux (Toyota),7800000.0,Toyota,46,Diesel,0,silver,Manual4WD,3,2018,2755.0,11.67,40000.0
+Hyundai Creta (Hyundai),3590000.0,Hyundai,24,Petrol,3,sleek silver,Auto2WD,0,2015,1591.0,12.68,57000.0
+Hyundai Creta (Hyundai),3585000.0,Hyundai,24,Petrol,3,sleek silver,Manual2WD,2,2015,1591.0,12.69,57000.0
+2017 Hyundai Eon Era Plus (Hyundai),1350000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2007,814.0,17.24,33000.0
+Renault Kiger RXL MT Auto Gear (Renault),2785000.0,Renault,37,Petrol,3,Moonlight Silver,Auto2WD,0,2021,999.0,16.0,7000.0
+SONET (KIA) (Kia),3200000.0,KIA,26,Petrol,3,Intense red,Manual2WD,2,2021,1200.0,13.03,11000.0
+"comapany color, fully loaded, freshcreta sx plus (Hyundai)",3650000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2016,1600.0,12.0,39243.0
+Hyundai Creta E Premium Loaded - Petrol (Hyundai),5456000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2023,1918.0,11.07,37400.0
+Loan 15 lakh - 17 lakh cash buy this auto captiva (Chevrolet),1700000.0,Chevrolet,11,Diesel,0,Not Specified,Auto4WD,1,2013,1162.0,13.96,47107.6
+Grand i10 Magna 2014 (Hyundai),1875000.0,Hyundai,24,Petrol,3,grey,Manual4WD,3,2014,1197.0,14.51,42000.0
+polo 1.6 high-Line 2016 (Volkswagen),2450000.0,Volkswagen,49,Petrol,3,orange,Manual2WD,2,2016,1600.0,13.65,49000.0
+Tata nexon xm s (Tata),3650000.0,Tata,45,Petrol,3,White,Manual2WD,2,2021,1200.0,16.0,17000.0
+Hyundai getz (Hyundai),925000.0,Hyundai,24,Petrol,3,Blue,Manual2WD,2,2008,1400.0,14.94,67000.0
+nissan super saloon 2005 model on sale (Nissan),1100000.0,Nissan,33,Petrol,3,silver,PowerSteering,4,2005,1600.0,12.25,100500.0
+Excellent 9817874410 (Tata),1650000.0,Tata,45,Diesel,0,red,Auto2WD,0,2014,2956.0,14.0,125000.0
+Single hand 2018 model Isuzu S-Cab sales & Exchang (Other Brands),3050000.0,Other Brands,34,Diesel,0,Not Specified,Manual2WD,2,2018,2499.0,12.52,55898.51
+Toyota echo (Toyota),950000.0,Toyota,46,Petrol,3,grey,PowerSteering,4,2003,1300.0,12.62,140000.0
+Ecosport 2013 trend model (Ford),1775000.0,Ford,20,Diesel,0,White,Manual2WD,2,2013,1200.0,13.56,54500.0
+scorpio m2 di crd (Mahindra),1185000.0,Mahindra,28,Diesel,0,black,Auto2WD,0,2006,2523.0,16.0,45023.9
+Maruti suzuki s cross (Maruti Suzuki),2500000.0,Maruti Suzuki,30,Diesel,0,Gray,Manual2WD,2,2016,1331.0,16.0,48025.39
+winger 14 seter 2018 ko fresh xa (Tata),1800000.0,Tata,45,Diesel,0,silver,Manual2WD,2,2018,1900.0,12.0,66371.77
+Swift Zxi 2006 Single Hand (Maruti Suzuki),1390000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2006,1200.0,14.0,55000.0
+Tata intra V20 on sale (Tata),1450000.0,Tata,45,Diesel,0,blue,Manual2WD,2,2020,1396.0,12.0,28000.0
+Toyota Corolla lx new shape with double airbag (Toyota),1725000.0,Toyota,46,Petrol,3,Royal black,Manual2WD,2,2007,1600.0,11.62,47000.0
+Tata Tigor (Tata),2400000.0,Tata,45,Petrol,3,red,Auto2WD,0,2020,1291.0,12.89,37000.15
+Tata Tipper (Tata),1800000.0,Tata,45,Diesel,0,blue,Auto2WD,0,2017,1589.0,13.36,79000.0
+fresh rio hatchback on sell with sunroof (Kia),820000.0,Kia,27,Petrol,3,orange,Manual2WD,2,2006,1400.0,17.0,65000.0
+Mahindra bolero (Mahindra),750000.0,Mahindra,28,Diesel,0,White,Auto2WD,0,2013,2523.0,13.32,36849.19
+i20 active s (Hyundai),2650000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2015,1200.0,14.5,45624.4
+Hiace for sale (Toyota),3800000.0,Toyota,46,Diesel,0,White,Manual2WD,2,2015,2800.0,12.0,64581.22
+Family car on sale - Perodua viva (Perodua),765000.0,Perodua,36,Petrol,3,Silver,Manual2WD,2,2008,850.0,15.68,36000.0
+Suzuki vittara 3 door (Maruti Suzuki),875000.0,Maruti Suzuki,30,Petrol,3,white,Manual4WD,3,1992,1600.0,12.56,100000.0
+Bolero Maxx on Sell. (Mahindra),1400000.0,Mahindra,28,Diesel,0,White,PowerSteering,4,2018,1359.0,15.72,34000.0
+well maintained fully fresh engine i20 on sale (Hyundai),1250000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2010,1200.0,16.0,48000.0
+KIA Sorento (Kia),5500000.0,Kia,27,Diesel,0,Silver,Auto4WD,1,2009,1984.0,12.71,55000.0
+Hyundai Creta 2017 (Hyundai),3390000.0,Hyundai,24,Petrol,3,gre,Manual2WD,2,2017,1598.0,13.04,41000.0
+Omni cargo 2016 model (Maruti Suzuki),550000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual4WD,3,2016,800.0,16.39,137915.35
+Honda CR-V 2018 (Honda),10700000.0,Honda,23,Petrol,3,White,Auto4WD,1,2018,1500.0,13.75,8300.0
+Fresh Maruti Car On Sales (Maruti Suzuki),550000.0,Maruti Suzuki,30,Petrol,3,Silky Silver,Manual2WD,2,2006,800.0,15.0,81155.0
+wagan R 2008 vxi (Maruti Suzuki),835000.0,Maruti Suzuki,30,Petrol,3,marron,Manual2WD,2,2008,1087.0,16.0,55000.0
+Terios (Daihatsu),1500000.0,Daihatsu,12,Petrol,3,red,PowerSteering,4,1999,1300.0,10.0,51992.67
+Full fresh condition zyotee mini JEEP on sale (Other Brands),995000.0,Other Brands,34,Petrol,3,Black,Manual2WD,2,2010,1300.0,14.0,48000.0
+Vw poli 1.6 single hand (Volkswagen),1650000.0,Volkswagen,49,Petrol,3,Black,Manual2WD,2,2011,1600.0,13.0,47000.0
+Suzuki Swift Dzire 2010 Vxi (Maruti Suzuki),1399999.0,Maruti Suzuki,30,Petrol,3,White,Auto2WD,0,2010,1200.0,16.0,61000.0
+Skoda Rapid 2021 with 15 lakh Finance (Skoda),3000000.0,Skoda,42,Petrol,3,White,Manual2WD,2,2021,1000.0,15.0,21000.0
+Hyundai I10 (2014 Model) (Hyundai),1700000.0,2014 Model,3,Petrol,3,maroon,Manual2WD,2,2014,1049.0,16.5,41848.0
+2010 maruti suzuki ritz fully loaded (Maruti Suzuki),1099000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2010,1200.0,14.0,60804.06
+Skoda Rapid 2013 (Skoda),1625000.0,Skoda,42,Diesel,0,silver,Manual2WD,2,2013,2251.0,22.0,73000.0
+Tata Tiago On Sale (Tata),1980000.0,Tata,45,Petrol,3,Coffee,Manual2WD,2,2019,1200.0,15.0,20000.0
+Kia sportage lxi petrol (Kia),4850000.0,Kia,27,Petrol,3,Silver,Manual2WD,2,2018,2000.0,13.0,52000.0
+all new Ford Fiesta titanium (Ford),1500000.0,Ford,20,Diesel,0,gray,Manual2WD,2,2013,1500.0,18.0,96000.0
+Mahindra Bolero 2009 model for sale (Mahindra),890000.0,Mahindra,28,Diesel,0,White,Manual2WD,2,2009,2523.0,13.46,42100.46
+Ford Eco sport (2015) white (Ford),2150000.0,2015,4,Petrol,3,white,Manual2WD,2,2015,1500.0,14.8,70000.0
+407 Tata Mini Trac Sell (Tata),925000.0,Tata,45,Diesel,0,Ghum,PowerSteering,4,2017,1398.0,10.0,40000.0
+2010 Model New Shape I10 Magna 1.2 On Sale (Hyundai),1475000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2010,1200.0,14.0,61000.0
+Hyundai Getz 2009 Model Full Option (Hyundai),920000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2009,1350.0,13.85,72000.0
+Excellent Condition Suzuki Eeco van 2012 on Sale (Maruti Suzuki),1225000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2012,1200.0,12.0,48000.0
+Excellent Condition Suzuki Swift Zxi 2008 on sale (Maruti Suzuki),1399999.0,Maruti Suzuki,30,Petrol,3,Azure Grey,Manual2WD,2,2008,1300.0,13.0,66000.0
+Hyundai i10 (Hyundai),2400000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2020,1200.0,20.0,26500.0
+Tata sumo ex gold (Tata),1175000.0,Tata,45,Diesel,0,gold,PowerSteering,4,2013,2956.0,12.54,93000.0
+Suzuki Swift Dzire VXI 2009 (Maruti Suzuki),1190000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2009,1200.0,14.69,60000.0
+Very Fresh Car for Sale(2016) (Skoda),1975000.0,2016,5,Diesel,0,White,Manual2WD,2,2016,1320.0,16.0,60000.0
+Rav4 (Toyota),6500000.0,Toyota,46,Petrol,3,Grey,Manual2WD,2,2013,2500.0,13.34,55000.0
+Hyundai Matrix with Sunroof (Hyundai),650000.0,Hyundai,24,Petrol,3,Not Specified,Manual2WD,2,2003,1009.0,14.7,71550.82
+Toyota avanza 2006 for sales (Toyota),1800000.0,Toyota,46,Petrol,3,silver,Auto2WD,0,2006,1300.0,11.0,8500.0
+Ford Freestyle Titanium On Sale (Ford),2495000.0,Ford,20,Petrol,3,White,Auto2WD,0,2018,1200.0,16.0,28800.0
+Jyoti For Sale (Other Brands),1050000.0,Other Brands,34,Petrol,3,Red,Manual2WD,2,2011,1500.0,12.0,76000.0
+Lxi Alto (Maruti Suzuki),1350000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2016,800.0,16.0,56000.0
+Scorpio S5+ 2020 Model (Mahindra),4200000.0,Mahindra,28,Diesel,0,white,Manual4WD,3,2020,1585.0,21.92,21255.14
+vitara brezza zdi+ (Maruti Suzuki),3025000.0,Maruti Suzuki,30,Diesel,0,white,Manual2WD,2,2017,1250.0,17.0,50000.0
+Suzuki swift zxi 2014 (Maruti Suzuki),2000000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2014,1500.0,14.0,50163.27
+Scorpio S4 Plus 2017 model (Mahindra),3600000.0,Mahindra,28,Diesel,0,Blue,Manual4WD,3,2017,1595.0,14.47,22105.18
+Mahindra tipper (Mahindra),1800000.0,Mahindra,28,Diesel,0,blue,Auto2WD,0,2018,2609.0,12.58,23000.0
+FORD ECO SPORTS IN IMMACULATE CONDITION (Ford),2350000.0,Ford,20,Petrol,3,GREY,PowerSteering,4,2018,1500.0,14.67,35500.0
+"Swift Dzire vxi ,2008 model, petrol,9851016822 (Maruti Suzuki)",1250000.0,Maruti Suzuki,30,Petrol,3,grey,Manual2WD,2,2008,1300.0,13.0,66235.0
+"Nios grand i10 magna,2021 model, petrol,9851016822 (Hyundai)",2775000.0,Hyundai,24,Petrol,3,graynite,Manual2WD,2,2021,1200.0,17.0,12000.0
+Singelhand 2018 breeza zdi+ with finance (Maruti Suzuki),3350000.0,Maruti Suzuki,30,Diesel,0,Blue white,Manual2WD,2,2018,1300.0,18.0,32000.0
+"Grand i10 magna ,2017 model,9851016822,Finance hnx (Hyundai)",2225000.0,Hyundai,24,Petrol,3,red,Manual2WD,2,2017,1200.0,13.0,33256.0
+"full option Swift zxi ,2014 model,9851016822 (Maruti Suzuki)",2075000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2014,1200.0,18.0,42136.0
+"Swift zxi with push button,2017 model, petrol, (Maruti Suzuki)",2550000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2017,1200.0,16.33,39523.0
+"Eeco van 7 seater with airbag Petrol,2020 model, (Maruti Suzuki)",1850000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2020,1200.0,18.5,23000.0
+"Hyundai Grand I10, 2018 Model, Only 17000km Silver (Hyundai)",2350000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2018,1200.0,14.67,17000.0
+2020 Wagon r new 1200cc facelift with 75% finance (Maruti Suzuki),2190000.0,Maruti Suzuki,30,Petrol,3,Grey silver,Manual2WD,2,2019,1200.0,18.0,17300.0
+Suzuki Alto Lxi 2018 Model (Maruti Suzuki),1399000.0,Maruti Suzuki,30,Petrol,3,Silver,PowerSteering,4,2018,800.0,16.8,42000.0
+Hilux Tiger 2002 model (Toyota),1625000.0,Toyota,46,Diesel,0,Green,Manual4WD,3,2002,3000.0,10.0,150000.0
+Maruti Suzuki Wagon R VXI 2013 last model (Maruti Suzuki),1405000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2013,998.0,21.0,46160.0
+Hyundai Verna SX 1.6 (Hyundai),1950000.0,Hyundai,24,Petrol,3,Blue,Manual2WD,2,2012,1600.0,12.0,71000.0
+Maruti Suzuki Ciaz ZXI | 2015 |45000km (Maruti Suzuki),2500000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2015,1400.0,17.0,45000.0
+nexon xz+ petrol 2020 single ownership (Tata),3250000.0,Tata,45,Petrol,3,Not Specified,Manual2WD,2,2020,1999.0,167.58,35000.0
+Toyota Rav 4 Auto Gear 9741819070 (Toyota),1245000.0,Toyota,46,Petrol,3,white,Auto4WD,1,1998,1997.0,10.33,63247.04
+Tata nissan CRX (Mahindra),750000.0,Mahindra,28,Diesel,0,Not Specified,Manual2WD,2,2009,1670.0,189.57,49947.21
+Tata zest xt 2016 model for sale (Tata),1850000.0,Tata,45,Petrol,3,Pearl white,Manual2WD,2,2016,1200.0,16.42,39000.0
+"Perodua myvi 2009 model, excellent condition (Perodua)",770000.0,Perodua,36,Petrol,3,silver,Auto2WD,0,2009,1300.0,12.0,75000.0
+2018 model Mahindra Electric car E2O plus P6 (Mahindra),1975000.0,Mahindra,28,Electric,1,silver,Auto2WD,0,2018,1054.0,21.23,39639.54
+Nissan Navara (Nissan),1200000.0,Nissan,33,Diesel,0,white,Manual4WD,3,2005,1697.0,80.19,84129.25
+2015 Model Daihatsu Terios 4 wd drive 9847699255 (Daihatsu),4450000.0,Daihatsu,12,Petrol,3,grey,Manual4WD,3,2015,1500.0,14.79,43000.0
+maruti suzuki wagner (Maruti Suzuki),1550000.0,Maruti Suzuki,30,Petrol,3,grey metalic,Manual2WD,2,2014,1000.0,20.0,48.0
+Tata Yodha on sale (Tata),1300000.0,Tata,45,Diesel,0,white,Auto2WD,0,2018,1256.0,28.26,46000.0
+Swift zxi 2016 (Maruti Suzuki),2375000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2016,1200.0,16.0,38000.0
+Grand i10 Asta 2016 (Hyundai),2375000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2016,1200.0,14.0,52000.0
+Toyota Corolla Lx Fully Loaded Double Airbags (Toyota),1750000.0,Toyota,46,Petrol,3,Royal blue,Manual2WD,2,2007,1600.0,11.62,47000.0
+Maruti Delivery Van (Maruti Suzuki),505000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2015,800.0,15.0,52500.0
+Maruti suzuki Celerio Vxi Auto 2014 model for sale (Maruti Suzuki),1800000.0,Maruti Suzuki,30,Petrol,3,Light green,Auto2WD,0,2014,1000.0,12.0,47000.0
+Ford Figo Single Woner No Dent Super Fresh Car (Ford),1650000.0,Ford,20,Petrol,3,Red,Manual2WD,2,2017,1200.0,14.16,43000.0
+Toyota Avanza 7 seater for sale 2013 model (Toyota),2150000.0,Toyota,46,Petrol,3,Silver,Manual2WD,2,2013,1300.0,13.25,53000.0
+Mahindra Bolero DC 2017 pickup for sale (Mahindra),1950000.0,Mahindra,28,Diesel,0,White,Manual4WD,3,2017,2523.0,13.34,38000.0
+Hyundai i20 sports 2010 model for sale (Hyundai),1550000.0,Hyundai,24,Petrol,3,Dark maroon,Manual2WD,2,2010,1200.0,12.0,73747.0
+Maruti suzuki eco van for sale 2016 model (Maruti Suzuki),1450000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2016,1200.0,16.0,54590.0
+Grand i 10 Astha 14 modrl (Hyundai),1950000.0,Hyundai,24,Petrol,3,Gray,Manual2WD,2,2014,1756.0,15.0,63000.0
+sentro Xing (Hyundai),1150000.0,Hyundai,24,Petrol,3,white,PowerSteering,4,2009,1086.0,14.9,60000.0
+Ford Figo On Sale (Ford),999999.0,Ford,20,Petrol,3,Black,Manual2WD,2,2011,1199.0,13.0,53000.0
+suzuki brezza (Maruti Suzuki),4100000.0,Maruti Suzuki,30,Petrol,3,red black,Manual2WD,2,2021,1500.0,17.0,24500.0
+4w Suv On Sale In Very Very Barand New Condition (Mahindra),2399999.0,Mahindra,28,Diesel,0,White,Manual4WD,3,2020,1606.0,14.0,49000.0
+Honda civic (Honda),1575000.0,Honda,23,Petrol,3,Grey,Manual2WD,2,2007,1600.0,10.0,60000.0
+Car for sale (Hyundai),1000000.0,Hyundai,24,Petrol,3,Blue,Manual2WD,2,2012,814.0,17.0,47000.0
+Suzuki swift VXI (Maruti Suzuki),1450000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2010,1084.0,15.08,56175.78
+terios on sale (Daihatsu),2550000.0,Daihatsu,12,Petrol,3,Not Specified,Manual4WD,3,2007,1500.0,15.08,53000.0
+Hatti gadi Mahindra maximo plus color white (Mahindra),450000.0,Mahindra,28,Diesel,0,white,PowerSteering,4,2013,901.0,15.0,16057.0
+Toyota aca33r 2008 For Sell (Toyota),5000000.0,Toyota,46,Diesel,0,Black,Manual4WD,3,2008,2362.0,11.47,42521.74
+Datsun Go Sale Second Hand (Datsun),1325000.0,Datsun,13,Petrol,3,Gray,PowerSteering,4,2015,1160.0,13.96,43404.64
+Hyundai I 10 asta for sale (Hyundai),2000000.0,Hyundai,24,Petrol,3,grey,Manual2WD,2,2014,1562.0,25.0,62000.0
+Eeco Van 2018 Model (Maruti Suzuki),1525000.0,Maruti Suzuki,30,Petrol,3,White,Manual2WD,2,2018,1200.0,12.0,63000.0
+Chevrolet yuva (Chevrolet),680000.0,Chevrolet,11,Petrol,3,Golden,PowerSteering,4,2008,1200.0,10.0,72000.0
+Hyundai Creta SX (Facelift) 2019 For Sale (Hyundai),4450000.0,Facelift,18,Petrol,3,Grey,Manual2WD,2,2019,1598.0,12.0,37000.0
+Suzuki maruti 800 (Maruti Suzuki),600000.0,Maruti Suzuki,30,Petrol,3,Nilo,Manual2WD,2,2006,800.0,18.0,57514.32
+Kia Soprtage GT line 2021 (Kia),9000000.0,Kia,27,Petrol,3,White,Auto2WD,0,2021,2000.0,10.0,30000.0
+Santro xing (Hyundai),1170000.0,Hyundai,24,Petrol,3,red,Manual2WD,2,2009,1100.0,13.79,84826.32
+Car On Sale (Tata),900000.0,Tata,45,Petrol,3,White,Manual2WD,2,2015,2083.0,149.25,63.0
+urgent sale (Tata),1400000.0,Tata,45,Petrol,3,silver,Manual2WD,2,2010,2200.0,12.0,57200.0
+Tata Mobile Transportation jeep (Tata),250000.0,Tata,45,Diesel,0,blue,Manual2WD,2,2003,1049.0,21.07,79520.0
+Hyundai santro for sell (Hyundai),1150000.0,Hyundai,24,Petrol,3,Sky blue,Manual2WD,2,2008,1200.0,20.0,11111.0
+Maruti Suzuki Alto for sale (Maruti Suzuki),630000.0,Maruti Suzuki,30,Petrol,3,Silver grey,Auto2WD,0,2000,800.0,18.0,4950.0
+Toyota | Fortuner | 2010 | 4WD | SUV (Toyota),5775000.0,Toyota,46,Petrol,3,Black,Manual2WD,2,2010,3000.0,10.0,105000.0
+Tata nano with ac (Tata),390000.0,Tata,45,Petrol,3,white,Manual2WD,2,2012,624.0,23.0,35000.0
+SUPER FRESH CONDITION ZYOTEE MINI JEEP ON SALE (Other Brands),875000.0,Other Brands,34,Petrol,3,White,Manual2WD,2,2009,1300.0,14.0,52000.0
+Scoripio (Mahindra),3675000.0,Mahindra,28,Diesel,0,Blue,Manual4WD,3,2017,2200.0,13.5,65000.0
+2009 ko kia spotes tu sell (Kia),1600000.0,Kia,27,Petrol,3,ret,Auto2WD,0,2009,1900.0,10.0,76000.0
+2010 ZOTYE 1.3 SINGLE HAND (Other Brands),1025000.0,Other Brands,34,Petrol,3,Black,Manual2WD,2,2010,1300.0,13.0,55000.0
+Isuzu scab 2021 exchange or sell (Other Brands),3550000.0,Other Brands,34,Diesel,0,Not Specified,Manual2WD,2,2021,2500.0,11.94,39201.01
+Mahindra maximo HD series 2020 model (Mahindra),1000000.0,Mahindra,28,Diesel,0,sliver,Manual2WD,2,2002,909.0,14.52,38000.0
+712 mina bus sale and exchange car bike bullet (Tata),1850000.0,Tata,45,Diesel,0,White,Manual2WD,2,2015,4000.0,8.0,105000.0
+50% फाईन्नस सुबिधा भएको ciaz car बिक्रीमा (Maruti Suzuki),2200000.0,Maruti Suzuki,30,Petrol,3,white,Manual2WD,2,2015,1387.0,17.0,44500.0
+Hyundai Creta (Hyundai),5500000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2018,1600.0,15.0,30000.0
+MG Hector Shine (Other Brands),4800000.0,Other Brands,34,Petrol,3,Black,Manual2WD,2,2021,1871.0,10.96,7700.0
+Ford ecoport Trend model (Ford),2500000.0,Ford,20,Petrol,3,Brown,Manual2WD,2,2016,1500.0,13.0,45000.0
+Car for sales (Maruti Suzuki),715000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual4WD,3,2009,800.0,14.94,80000.0
+Honda city 2015 (Honda),2320000.0,Honda,23,Petrol,3,silver gray,Manual2WD,2,2015,1490.0,14.22,30100.0
+Cevrolet Spark 2009 Model Full Loded (Chevrolet),900000.0,Chevrolet,11,Petrol,3,Golden,Auto2WD,0,2009,1000.0,14.0,85000.0
+Santro Xing For Sale (Hyundai),975000.0,Hyundai,24,Petrol,3,Husky Blue,Auto2WD,0,2005,1100.0,15.09,82000.0
+toyota fortuner (Toyota),9700000.0,Toyota,46,Diesel,0,white,Manual4WD,3,2015,3000.0,12.0,45000.0
+Full Option Santro Xing Urgent Sale (Hyundai),875000.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2004,1068.0,24.26,68964.74
+Hyundai i10 sportz for sale (Hyundai),1450000.0,Hyundai,24,Petrol,3,N3,Auto2WD,0,2009,1200.0,15.0,80000.0
+creta sx sale.showroom condition (Hyundai),5700000.0,Hyundai,24,Petrol,3,melbury red,Manual2WD,2,2021,1500.0,12.0,14000.0
+Ford Figo (Ford),1075000.0,Ford,20,Petrol,3,Black,Manual2WD,2,2011,1200.0,13.1,60000.0
+2010 model (Maruti Suzuki),775000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2010,1300.0,14.11,91203.57
+Volkswagen Polo 2018 (Volkswagen),2450000.0,Volkswagen,49,Petrol,3,Brown,Manual2WD,2,2018,998.0,15.18,27969.0
+CAR ON SALE (Maruti Suzuki),1250000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2009,1295.0,13.32,66531.2
+Kia Rio (Kia),540000.0,Kia,27,Petrol,3,Black,Auto2WD,0,2004,1400.0,14.0,60000.0
+Maruti Suzuki Swift Zxi 2014 (Maruti Suzuki),2025000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2014,1197.0,15.0,47582.0
+MAHINDRA BOLERO PICKUP 4 WHEEL (Mahindra),1150000.0,Mahindra,28,Petrol,3,SETO,Manual4WD,3,2016,2500.0,11.77,46230.0
+MARUTI SUZUKI ALTO ALTO CAR 800 (Maruti Suzuki),600000.0,Maruti Suzuki,30,Petrol,3,SILVER,Manual2WD,2,2004,800.0,69.0,63586.0
+HYUNDAI SANTRO XING SEMI OPTION CAR (Hyundai),1725000.0,Hyundai,24,Petrol,3,SILVER,Manual2WD,2,2014,1086.0,14.98,52490.0
+ALTO K10 SEMI OPTION CAR (Hyundai),590000.0,Hyundai,24,Petrol,3,GRE,Manual2WD,2,2002,1061.0,20.75,62570.0
+Hyundai | Venue S | 2019 | CUV (Hyundai),3062500.0,Hyundai,24,Petrol,3,Red,Manual2WD,2,2019,1200.0,12.0,40000.0
+Maruti Suzuki Swift Zxi On Sale.. (Maruti Suzuki),1897000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2014,1197.0,15.0,74000.0
+"Creta sx (o), 2019, silver color 9863861301 (Hyundai)",5100000.0,o,53,Petrol,3,Silver,Manual2WD,2,2019,1600.0,13.2,20000.0
+Renault Duster RXZ+ 2016 (Renault),2475000.0,Renault,37,Diesel,0,Silver,Manual2WD,2,2016,1500.0,17.0,75000.0
+dzire vxi 2014 (Maruti Suzuki),1700000.0,Maruti Suzuki,30,Petrol,3,white,Auto2WD,0,2014,1200.0,14.0,65300.0
+Hyundai i10 Magna 1.2 2013 For Sale (Hyundai),1700000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2013,1200.0,13.0,50000.0
+Tata nano car (Tata),350000.0,Tata,45,Petrol,3,Summer blue,Manual4WD,3,2011,624.0,27.0,71000.0
+Brand new japanese vitara 4Wd😍😍😍 (Maruti Suzuki),8950000.0,Maruti Suzuki,30,Hybrid,2,Premium silver,Auto4WD,1,2021,1586.0,27.97,1000.0
+maruti suzuki celerio vxi 2014 auto gear (Maruti Suzuki),1800000.0,Maruti Suzuki,30,Petrol,3,Sunshine ray,Auto2WD,0,2014,998.0,15.0,47000.0
+Tata sumo gold urgent on the (Tata),1200000.0,Tata,45,Diesel,0,Not Specified,PowerSteering,4,2009,1747.0,12.57,79043.94
+Tata sumo gold urgent on the (Tata),1200000.0,Tata,45,Diesel,0,Not Specified,PowerSteering,4,2009,1747.0,12.57,79043.94
+2019 airbag with abs breck sell (Maruti Suzuki),2725000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2019,1200.0,18.0,29999.24
+WagonR 2018 full fresh on sale (Maruti Suzuki),1850000.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2018,1000.0,17.0,65000.0
+i20 sportz 2013 (Hyundai),1750000.0,Hyundai,24,Petrol,3,light grey,Manual2WD,2,2013,1500.0,13.0,45.0
+Bolero Maxitruck (Mahindra),1200000.0,Mahindra,28,Diesel,0,"Brown, chocolate",Manual2WD,2,2017,2523.0,13.34,100000.0
+SUZUKI ALTO (Maruti Suzuki),1575000.0,Maruti Suzuki,30,Petrol,3,GREY,Manual2WD,2,2018,800.0,15.9,46333.0
+Enjoy the best rates.Car on sale! (Other Brands),350000.0,Other Brands,34,Petrol,3,Black,Auto2WD,0,2004,1600.0,10.0,90819.0
+Hyundai I20 Active S 2018 (Full Option) (Hyundai),3075000.0,Full Option,21,Petrol,3,Sleek Silver,Manual2WD,2,2018,1197.0,15.0,32000.0
+Hyundai Santro full option car 2007 model for sale (Hyundai),11500000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2007,1100.0,15.27,73000.0
+Volkswagen polo 1.6 highline 2014 for sale (Volkswagen),2150000.0,Volkswagen,49,Petrol,3,Red,Manual2WD,2,2014,1600.0,15.0,42000.0
+Honda Amaze smt 2015 model car for sale (Honda),18500000.0,Honda,23,Petrol,3,Blue,Manual2WD,2,2015,1200.0,13.51,45000.0
+Hyundai accent (Hyundai),775000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2003,1500.0,15.0,102500.0
+Skoda rapid (Skoda),1650000.0,Skoda,42,Diesel,0,silver,Manual2WD,2,2013,2062.0,130.19,79584.37
+Hyundai Creta E+ 2019 model for sale (Hyundai),4000000.0,Hyundai,24,Petrol,3,Pearl white,Manual2WD,2,2019,1600.0,14.0,20000.0
+Toyota Corolla LX 2007 single hand (Toyota),1575000.0,Toyota,46,Petrol,3,light blue metallic,Manual2WD,2,2007,1497.0,14.97,65000.0
+Hyundai Tucson 2009 ko bikima akdam milauara dinxu (Hyundai),1999999.0,Hyundai,24,Diesel,0,silver,Auto4WD,1,2009,1990.0,12.0,70000.0
+ALTO 2009 for sale (Maruti Suzuki),870000.0,Maruti Suzuki,30,Petrol,3,Maroon,Manual2WD,2,2009,800.0,16.0,57000.0
+Suzuki | Dzire VXi | 2018 | Sedan (Maruti Suzuki),2462500.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2018,1200.0,12.0,44000.0
+Creta 2017 On sale (Hyundai),3750000.0,Hyundai,24,Petrol,3,White,Auto4WD,1,2017,1374.0,20.0,65000.0
+Maruti Suzuki Celerio VXi (Maruti Suzuki),1585000.0,Maruti Suzuki,30,Petrol,3,Red,Manual2WD,2,2014,1419.0,12.67,26000.0
+Nissan Micra XV 2015 (Nissan),1450000.0,Nissan,33,Petrol,3,Blue,Manual2WD,2,2015,1200.0,14.89,36000.0
+Suzuki swift 2017 ZXI on sale. (Maruti Suzuki),2400000.0,Maruti Suzuki,30,Petrol,3,Granite grey,Manual2WD,2,2017,1197.0,16.0,26000.0
+i20 Active S 2018 (Hyundai),3075000.0,Hyundai,24,Petrol,3,marron,Manual2WD,2,2018,1200.0,14.0,37000.0
+Nissan Terrano 2018 Brand New (Nissan),3750000.0,Nissan,33,Petrol,3,Silver,Manual2WD,2,2018,774.0,17.36,5000.0
+Hyundai getz 2008model (Hyundai),950000.0,Hyundai,24,Petrol,3,sky blue,Manual2WD,2,2008,1400.0,14.94,81000.0
+Swift Dzire Vxi (Maruti Suzuki),1600000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2011,1200.0,18.0,50000.0
+i 10 sports 2010 sale 9813994422 fulopson.1.2fresh (Hyundai),1435000.0,Hyundai,24,Petrol,3,Light grey,Manual2WD,2,2010,1200.0,18.0,55700.0
+Breeza zdi 2016 sell or exchange with pickups (Maruti Suzuki),3050000.0,Maruti Suzuki,30,Diesel,0,Pearl white,Manual2WD,2,2016,1250.0,16.0,55000.0
+santro (Hyundai),850000.0,Hyundai,24,Petrol,3,sky blue,Manual2WD,2,2004,1200.0,15.0,55.0
+Kia Soul EV 2017 on sale (Kia),3990000.0,Kia,27,Electric,1,White,Auto2WD,0,2017,1740.0,13.98,42000.0
+santro (Hyundai),950000.0,Hyundai,24,Petrol,3,red,Manual2WD,2,2005,1200.0,15.0,45.0
+Grand I10 Nios Magna 2021 Model On Sale (Hyundai),2950000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2021,1197.0,17.0,19000.0
+Sell (Hyundai),2650000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2016,1200.0,15.0,38000.0
+2008 Model loadking super nissan on sale (Mahindra),600000.0,Mahindra,28,Diesel,0,Blue,Manual2WD,2,2008,2600.0,12.83,54371.56
+Excellent 2012 cheverolet uva 1.2 with airbags abs (Chevrolet),1025000.0,Chevrolet,11,Petrol,3,Silver grey,Manual2WD,2,2012,1200.0,14.0,43000.0
+tata super ace good condition n looks good (Tata),800000.0,Tata,45,Diesel,0,white,Auto2WD,0,2012,1399.0,15.0,70000.0
+Hyundai Creta (Hyundai),5600000.0,Hyundai,24,Petrol,3,White,Manual2WD,2,2021,1500.0,12.0,19000.0
+Like brand new car on sale (Nissan),4260000.0,Nissan,33,Petrol,3,Silver,Manual2WD,2,2023,1000.0,20.0,3000.0
+FORD FIGO TITANIUM 2013 WELL IN CONDITION FUE RUN (Ford),1275000.0,Ford,20,Petrol,3,C-RED,Manual2WD,2,2013,1196.0,13.49,21000.0
+Maruti suzuki Alto Car 800 LXI 2014 model on sell. (Maruti Suzuki),1000000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2014,796.0,23.0,149000.0
+Sumo 2018 (Tata),1600000.0,Tata,45,Diesel,0,Not Specified,Manual2WD,2,2018,3000.0,10.42,56814.98
+KIA Sportage AWD in mint condition for urgent sale (Kia),3050000.0,Kia,27,Petrol,3,white,Manual4WD,3,2011,1998.0,14.0,58010.0
+i10 ERA-Urgent Sell (Hyundai),1250000.0,Hyundai,24,Petrol,3,Maroon,Manual2WD,2,2009,1098.0,12.0,65000.0
+Hyundai Tucson 2009 Model On Sell (Hyundai),2075000.0,Hyundai,24,Petrol,3,Not Specified,Auto2WD,0,2009,1199.0,15.73,40579.72
+For sale 2017 model ecosport ambient petrol (Ford),1850000.0,Ford,20,Petrol,3,White,Manual2WD,2,2017,1500.0,17.0,43000.0
+Tata Truck -- White & Black color (Tata),1900000.0,Tata,45,Diesel,0,Not Specified,PowerSteering,4,2017,1123.0,15.03,100000.0
+Mahindra Bolero Single Cab Pickup 1.5 TPS 2018 (Mahindra),1575000.0,Mahindra,28,Diesel,0,White,Manual2WD,2,2018,2523.0,13.41,29594.0
+Datsun Redigo (Datsun),1350000.0,Datsun,13,Petrol,3,silver,Manual2WD,2,2018,1000.0,17.0,42000.0
+Suzuki | Baleno Delta | 2017 | Hatchback (Hyundai),2037500.0,Hyundai,24,Petrol,3,Grey,Manual2WD,2,2017,1200.0,12.0,55000.0
+Suzuki | Wagon R VXi | 2021 | Hatchback (Maruti Suzuki),2362500.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2021,1200.0,14.0,13000.0
+HYUNDAI CRETA SX+ 2016 FULLY LOADED VEHICLE (Hyundai),3375000.0,Hyundai,24,Petrol,3,Polar White,Manual2WD,2,2016,1591.0,12.7,42097.0
+Scorpio Pickup s10 2019 with Finance (Mahindra),3500000.0,Mahindra,28,Diesel,0,silver,Auto4WD,1,2019,2497.0,11.97,50000.0
+Made in Japan and Malaysia assembled car on sale (Perodua),875000.0,Perodua,36,Petrol,3,white,Manual2WD,2,2008,1000.0,18.0,70000.0
+Celerio VXI 2017 (Maruti Suzuki),1950000.0,Maruti Suzuki,30,Petrol,3,Grey,PowerSteering,4,2017,998.0,18.0,41461.0
+Kia van (Kia),1000000.0,Kia,27,Diesel,0,black,Auto2WD,0,2001,2000.0,8.0,80000.0
+Kia van (Kia),400000.0,Kia,27,Diesel,0,black,Auto2WD,0,2001,2000.0,8.0,80000.0
+Suzuki Dzire Zxi + (Maruti Suzuki),2700000.0,Maruti Suzuki,30,Petrol,3,Silver,Manual2WD,2,2017,1200.0,16.0,51000.0
+Suzuki | Swift ZXi | 2018 | Hatchback (Maruti Suzuki),2612500.0,Maruti Suzuki,30,Petrol,3,Grey,Manual2WD,2,2018,1200.0,12.0,35000.0
+Nissan Navara SL 2019 model with Canopy (Nissan),6000000.0,Nissan,33,Diesel,0,white,Manual4WD,3,2019,2500.0,12.06,46090.91
+Baleno Delta 2017 (Maruti Suzuki),2250000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,2017,1200.0,16.33,32000.0
+Toyota LX (Toyota),1780000.0,Toyota,46,Petrol,3,silver,Auto2WD,0,2007,1497.0,14.95,80700.0
+Maruti Suzuki zxi (Maruti Suzuki),1990000.0,Maruti Suzuki,30,Petrol,3,read,Auto2WD,0,2013,1197.0,15.98,71500.0
+Kia Sonet HTE (Kia),3790000.0,Kia,27,Petrol,3,White,Manual4WD,3,2023,1200.0,15.0,60342.08
+Maruti Suzuki Swift Dzire Vxi - silky silver (Maruti Suzuki),2700000.0,Maruti Suzuki,30,Petrol,3,Silky Silver,Manual2WD,2,2019,1197.0,15.36,27000.0
+Santro xing 2007 (Hyundai),1075000.0,Hyundai,24,Petrol,3,Black,Auto2WD,0,2007,1086.0,14.0,57000.0
+TATA Super Ace (Tata),550000.0,Tata,45,Diesel,0,White,Manual2WD,2,2013,1400.0,12.91,116077.49
+single hand honda city (Honda),1300000.0,Honda,23,Petrol,3,golden,Manual2WD,2,2008,1599.0,10.0,75713.54
+Renault Kwid Automatic 2017 model (Renault),1550000.0,Renault,37,Petrol,3,silver,Auto2WD,0,2017,999.0,15.0,15000.0
+i20 good condition for sell (Hyundai),1640000.0,Hyundai,24,Petrol,3,Sliver,Auto2WD,0,2010,1200.0,14.0,65000.0
+Jeep Compass Limited + 2020 (Jeep),8900000.0,Jeep,25,Diesel,0,Vocal White,Manual4WD,3,2020,1956.0,16.29,35000.0
+Renault kwid 1.0 rxt for sale (Renault),1499999.0,Renault,37,Petrol,3,gry,Manual2WD,2,2017,1000.0,15.0,32000.0
+bhansar ko que ko gadi urgent sale (Mahindra),1450000.0,Mahindra,28,Diesel,0,red,Manual2WD,2,2012,900.0,14.0,81000.0
+Mahendra Scorpio S5 (2.2) (Mahindra),4200000.0,2.2,1,Diesel,0,silver,Manual4WD,3,2018,2179.0,12.0,58000.0
+Proton Wira Good condition car 2005 model Malaysia (Other Brands),625000.0,Other Brands,34,Petrol,3,black,Manual4WD,3,2005,1468.0,19.16,6278.0
+"Ford India, Eco Sport (Ford)",2200000.0,Ford,20,Diesel,0,grey,Manual2WD,2,2013,1498.0,15.52,79093.93
+Scorpio (Mahindra),2200000.0,Mahindra,28,Diesel,0,White,Manual2WD,2,2012,2179.0,15.07,180000.0
+New Nissan Magnite XE 2022 (BRAND NEW DEAL) (Nissan),2750000.0,BRAND NEW DEAL,10,Petrol,3,Red,Manual2WD,2,2022,999.0,15.87,10000.0
+Tata Ace Hatti Gadi (Tata) (Tata) (Tata),1099999.0,Tata,45,Diesel,0,blue,Auto2WD,0,2021,1200.0,23.0,8000.0
+Toyata (Toyota),2300000.0,Toyota,46,Hybrid,2,Not Specified,Auto4WD,1,2020,1805.0,11.19,45065.75
+maruti 2010 taxi (Maruti Suzuki),1500000.0,Maruti Suzuki,30,Petrol,3,white,Auto2WD,0,2010,800.0,10.0,55853.81
+Toyota car (Toyota),150000.0,Toyota,46,Diesel,0,White,Manual2WD,2,1993,1900.0,16.0,100000.0
+Tata manza car sale and exchange (Toyota),850000.0,Toyota,46,Diesel,0,White,Manual2WD,2,2012,1940.0,16.0,60000.0
+Urgent sell maruti 800 (Maruti Suzuki),240000.0,Maruti Suzuki,30,Petrol,3,Not Specified,Manual2WD,2,1999,1046.0,20.37,79313.64
+Eon era plus 2016 (Hyundai),1400000.0,Hyundai,24,Petrol,3,marron,Manual2WD,2,2016,800.0,19.0,42000.0
+Brezza 1.5 petrol zxi+ 2021 (Maruti Suzuki),4075000.0,Maruti Suzuki,30,Petrol,3,silver,Manual2WD,2,2021,1500.0,16.0,12000.0
+Cargo Van On sale (Tata),650000.0,Tata,45,Diesel,0,Gray,Auto2WD,0,2017,800.0,20.0,70000.0
+Hyundai i10 asta grand 2018 push button start (Hyundai),2575000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2018,1200.0,14.67,32000.0
+Hyundai i10 grand magna 2014 48000 km (Hyundai),1850000.0,Hyundai,24,Petrol,3,Gray,Manual2WD,2,2014,1200.0,14.0,48000.0
+Single handed Cargo van on sale (Maruti Suzuki),740000.0,Maruti Suzuki,30,Petrol,3,White,Auto2WD,0,2018,800.0,15.0,17000.0
+Hyundai Ix35 Crdi (Hyundai),3725000.0,Hyundai,24,Diesel,0,Silk Silver,Manual4WD,3,2011,2000.0,12.0,36091.0
+Naza Forza 2008 Model (Other Brands),600000.0,Other Brands,34,Petrol,3,Satine silver,Manual2WD,2,2008,1278.0,12.0,56055.16
+2022 Mahindra Scorpio S5 4WD for sale or exchange (Mahindra),5300000.0,Mahindra,28,Petrol,3,White,Manual4WD,3,2022,2090.0,123.58,7500.0
+Hiace for sale 2015 model (Toyota),3900000.0,Toyota,46,Diesel,0,White,Manual2WD,2,2015,2800.0,12.0,102.85
+Mahendra bolero pickup truck (Mahindra),1450000.0,Mahindra,28,Diesel,0,gray,Manual4WD,3,2017,2500.0,11.85,42000.0
+"Eco cargo van 2021 model ,16800 km running ,12lac (Maruti Suzuki)",1200000.0,Maruti Suzuki,30,Petrol,3,White,Auto2WD,0,2021,1200.0,16.0,16800.0
+Bolero maxitruck (Mahindra),1675000.0,Mahindra,28,Diesel,0,white,Auto4WD,1,2019,2500.0,11.97,56000.0
+2010 Model I10 Magna 1.2 New Shape On Sale (Hyundai),1465000.0,Hyundai,24,Petrol,3,Silver,Manual2WD,2,2010,1200.0,20.0,60000.0
+Honda City 2004 (Honda),799999.0,Honda,23,Petrol,3,Metallic Grey,Manual2WD,2,2004,1498.0,15.22,108000.0
+Hyundai grand i10 (Hyundai),2450000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2020,1200.0,20.0,26500.0
+Well maintained car. Everything is fine. Single ha (Hyundai),1925000.0,Hyundai,24,Petrol,3,Navy blue,Manual2WD,2,2015,1200.0,15.0,60000.0
+VW Polo 2014 Highline 1200 (Renault),1950000.0,Renault,37,Petrol,3,Carbon Steel ( Dark Grey),Manual2WD,2,2014,1200.0,12.0,60000.0
+Hyundai i10 magna 2014 (Hyundai),1750000.0,Hyundai,24,Petrol,3,silver,Manual2WD,2,2014,1200.0,14.0,93000.0
+nissan xtrail 2007 model for sale or exchange (Nissan),2450000.0,Nissan,33,Diesel,0,cream,Auto4WD,1,2007,2200.0,13.0,60000.0
