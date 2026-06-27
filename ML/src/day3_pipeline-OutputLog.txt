@@ -1,0 +1,179 @@
+DAY 3: MODEL SUITE & NESTED CV
+MLflow tracking URI: ./mlruns
+MLflow experiment: telco-churn-nested-cv
+
+Data checksum: 0f9de68e012bd3aed5fa7cdc9fc421af
+ Loaded: 7043 rows, Churn rate: 26.5%
+Train: 5634 (26.5% churn)
+Test:  1409 (26.5% churn)
+
+CLASS IMBALANCE ANALYSIS
+Training Set: 2.77:1 (MODERATE)
+  Minority (Churn): 1495 (26.5%)
+
+BUSINESS COST CONTEXT
+  False Negative (Missed Churn): $100
+  False Positive (Wasted Effort): $10
+  Cost Ratio: 10:1
+
+DAY 2 BASELINE TO BEAT (logistic_smote):
+  Cost: $10,510 | FN: 76 | FP: 291
+MODEL: XGBOOST_BALANCED
+
+Outer CV: 5 folds | Inner CV: 3 folds (GridSearchCV)
+Hyperparameter space: 324 combinations
+Optimization metric: Business Cost (FN=$100, FP=$10)
+
+--- Fold 1/5 ---
+  Best params: {'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__min_child_weight': 5, 'classifier__n_estimators': 100, 'classifier__scale_pos_weight': 5.0, 'classifier__subsample': 0.8}
+  Cost: $5,910 | FN: 17 | FP: 421
+  PR-AUC: 0.6311 | Recall: 0.9431
+
+--- Fold 2/5 ---
+  Best params: {'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__min_child_weight': 1, 'classifier__n_estimators': 100, 'classifier__scale_pos_weight': 5.0, 'classifier__subsample': 1.0}
+  Cost: $5,980 | FN: 16 | FP: 438
+  PR-AUC: 0.6013 | Recall: 0.9465
+
+--- Fold 3/5 ---
+  Best params: {'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__min_child_weight': 3, 'classifier__n_estimators': 200, 'classifier__scale_pos_weight': 5.0, 'classifier__subsample': 1.0}
+  Cost: $6,550 | FN: 27 | FP: 385
+  PR-AUC: 0.6507 | Recall: 0.9097
+
+--- Fold 4/5 ---
+  Best params: {'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__min_child_weight': 5, 'classifier__n_estimators': 100, 'classifier__scale_pos_weight': 5.0, 'classifier__subsample': 1.0}
+  Cost: $5,440 | FN: 8 | FP: 464
+  PR-AUC: 0.6269 | Recall: 0.9732
+
+--- Fold 5/5 ---
+  Best params: {'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__min_child_weight': 5, 'classifier__n_estimators': 100, 'classifier__scale_pos_weight': 5.0, 'classifier__subsample': 0.8}
+  Cost: $5,620 | FN: 12 | FP: 442
+  PR-AUC: 0.6408 | Recall: 0.9599
+
+NESTED CV RESULTS (Outer Fold Statistics)
+Cost:    $  5,900 ± $   379
+FN:         16.0 ±    6.4
+FP:        430.0 ±   26.3
+PR-AUC:   0.6302 ± 0.0166
+Recall:   0.9465 ± 0.0213
+
+Training final model on full training set...
+  Using params: {'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__min_child_weight': 5, 'classifier__n_estimators': 100, 'classifier__scale_pos_weight': 5.0, 'classifier__subsample': 0.8}
+
+HELD-OUT TEST SET PERFORMANCE:
+  Cost: $7,310
+  FN: 18 | FP: 551
+  PR-AUC: 0.6128 | Recall: 0.9519
+✅ Logged to MLflow: xgboost_balanced
+MODEL: RF_BALANCED
+
+Outer CV: 5 folds | Inner CV: 3 folds (GridSearchCV)
+Hyperparameter space: 162 combinations
+Optimization metric: Business Cost (FN=$100, FP=$10)
+
+--- Fold 1/5 ---
+  Best params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}
+  Cost: $9,080 | FN: 73 | FP: 178
+  PR-AUC: 0.6316 | Recall: 0.7559
+
+--- Fold 2/5 ---
+  Best params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 300}
+  Cost: $11,200 | FN: 94 | FP: 180
+  PR-AUC: 0.6416 | Recall: 0.6856
+
+--- Fold 3/5 ---
+  Best params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 300}
+  Cost: $9,190 | FN: 73 | FP: 189
+  PR-AUC: 0.6910 | Recall: 0.7559
+
+--- Fold 4/5 ---
+  Best params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 300}
+  Cost: $8,490 | FN: 67 | FP: 179
+  PR-AUC: 0.6711 | Recall: 0.7759
+
+--- Fold 5/5 ---
+  Best params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 300}
+  Cost: $9,120 | FN: 75 | FP: 162
+  PR-AUC: 0.6716 | Recall: 0.7492
+
+NESTED CV RESULTS (Outer Fold Statistics)
+Cost:    $  9,416 ± $   926
+FN:         76.4 ±    9.2
+FP:        177.6 ±    8.7
+PR-AUC:   0.6614 ± 0.0217
+Recall:   0.7445 ± 0.0308
+
+Training final model on full training set...
+  Using params: {'classifier__class_weight': 'balanced', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 300}
+
+HELD-OUT TEST SET PERFORMANCE:
+  Cost: $11,060
+  FN: 86 | FP: 246
+  PR-AUC: 0.6581 | Recall: 0.7701
+✅ Logged to MLflow: rf_balanced
+MODEL: LOGISTIC_SMOTE
+
+Outer CV: 5 folds | Inner CV: 3 folds (GridSearchCV)
+Hyperparameter space: 12 combinations
+Optimization metric: Business Cost (FN=$100, FP=$10)
+
+--- Fold 1/5 ---
+  Best params: {'classifier__C': 1.0, 'classifier__penalty': 'l2', 'smote__k_neighbors': 7}
+  Cost: $7,820 | FN: 58 | FP: 202
+  PR-AUC: 0.6345 | Recall: 0.8060
+
+--- Fold 2/5 ---
+  Best params: {'classifier__C': 10.0, 'classifier__penalty': 'l2', 'smote__k_neighbors': 5}
+  Cost: $10,490 | FN: 82 | FP: 229
+  PR-AUC: 0.6300 | Recall: 0.7258
+
+--- Fold 3/5 ---
+  Best params: {'classifier__C': 10.0, 'classifier__penalty': 'l2', 'smote__k_neighbors': 7}
+  Cost: $8,850 | FN: 66 | FP: 225
+  PR-AUC: 0.6870 | Recall: 0.7793
+
+--- Fold 4/5 ---
+  Best params: {'classifier__C': 10.0, 'classifier__penalty': 'l2', 'smote__k_neighbors': 7}
+  Cost: $6,970 | FN: 47 | FP: 227
+  PR-AUC: 0.6779 | Recall: 0.8428
+
+--- Fold 5/5 ---
+  Best params: {'classifier__C': 1.0, 'classifier__penalty': 'l2', 'smote__k_neighbors': 5}
+  Cost: $8,190 | FN: 63 | FP: 189
+  PR-AUC: 0.6635 | Recall: 0.7893
+
+NESTED CV RESULTS (Outer Fold Statistics)
+Cost:    $  8,464 ± $ 1,181
+FN:         63.2 ±   11.4
+FP:        214.4 ±   16.0
+PR-AUC:   0.6586 ± 0.0228
+Recall:   0.7886 ± 0.0382
+
+Training final model on full training set...
+  Using params: {'classifier__C': 10.0, 'classifier__penalty': 'l2', 'smote__k_neighbors': 7}
+
+HELD-OUT TEST SET PERFORMANCE:
+  Cost: $10,540
+  FN: 77 | FP: 284
+  PR-AUC: 0.6249 | Recall: 0.7941
+✅ Logged to MLflow: logistic_smote
+
+FINAL MODEL COMPARISON (Held-Out Test Set)
+
+           Model  Test_Cost  FN  FP   PR-AUC   Recall  CV_Cost_Mean  CV_Cost_Std
+xgboost_balanced       7310  18 551 0.612839 0.951872        5900.0   379.209705
+  logistic_smote      10540  77 284 0.624908 0.794118        8464.0  1181.145207
+     rf_balanced      11060  86 246 0.658069 0.770053        9416.0   926.468564
+
+WINNER: XGBOOST_BALANCED
+Test Set Cost: $7,310
+False Negatives: 18
+
+IMPROVEMENT over Day 2 baseline:
+Cost savings: $3,200 (30.4%)
+   FN reduction: 58 fewer missed churners (76.3%)
+
+DAY 3 COMPLETE!
+Models evaluated: 3
+Best model: xgboost_balanced
+Nested CV: 5 outer folds × 3 inner folds
+MLflow UI: mlflow ui --port 5000

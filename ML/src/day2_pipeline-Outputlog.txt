@@ -1,0 +1,185 @@
+MLflow tracking URI: ./mlruns
+MLflow experiment: telco-churn-baselines
+
+Data checksum: 0f9de68e012bd3aed5fa7cdc9fc421af
+ Loaded: 7043 rows, Churn rate: 26.5%
+Train: 5634 (26.5% churn)
+Test:  1409 (26.5% churn)
+CLASS IMBALANCE ANALYSIS
+
+Training Set:
+  Total samples: 5634
+  Majority (No Churn): 4139 (73.5%)
+  Minority (Churn):    1495 (26.5%)
+  Imbalance ratio: 2.77:1
+  Severity: MODERATE
+
+Test Set:
+  Total samples: 1409
+  Imbalance ratio: 2.77:1
+
+Imbalance Strategy Decision:
+  Ratio 2.77:1 indicates MODERATE imbalance
+  Testing: class_weight='balanced' AND SMOTE
+  Justification: PR-AUC will guide final choice
+
+MODEL 1/4: Dummy Classifier (Most Frequent)
+Training: majority_baseline
+
+Training Metrics:
+  PR-AUC:    0.2654
+  F1-Score:  0.0000
+  Precision: 0.0000
+  Recall:    0.0000
+
+Test Metrics:
+  PR-AUC:    0.2654
+  F1-Score:  0.0000
+  Precision: 0.0000
+  Recall:    0.0000
+Classification Report: majority_baseline
+              precision    recall  f1-score   support
+
+    No Churn       0.73      1.00      0.85      1035
+       Churn       0.00      0.00      0.00       374
+
+    accuracy                           0.73      1409
+   macro avg       0.37      0.50      0.42      1409
+weighted avg       0.54      0.73      0.62      1409
+
+
+Confusion Matrix Breakdown:
+  True Negatives:   1035 (Correctly predicted No Churn)
+  False Positives:     0 (Incorrectly predicted Churn)
+  False Negatives:   374 (Missed Churn cases)
+  True Positives:      0 (Correctly predicted Churn)
+✅ Logged to MLflow: majority_baseline
+
+MODEL 2/4: Dummy Classifier (Stratified)
+Training: stratified_baseline
+
+Training Metrics:
+  PR-AUC:    0.2697
+  F1-Score:  0.2783
+  Precision: 0.2810
+  Recall:    0.2756
+
+Test Metrics:
+  PR-AUC:    0.2723
+  F1-Score:  0.2903
+  Precision: 0.2891
+  Recall:    0.2914
+Classification Report: stratified_baseline
+              precision    recall  f1-score   support
+
+    No Churn       0.74      0.74      0.74      1035
+       Churn       0.29      0.29      0.29       374
+
+    accuracy                           0.62      1409
+   macro avg       0.52      0.52      0.52      1409
+weighted avg       0.62      0.62      0.62      1409
+
+
+Confusion Matrix Breakdown:
+  True Negatives:    767 (Correctly predicted No Churn)
+  False Positives:   268 (Incorrectly predicted Churn)
+  False Negatives:   265 (Missed Churn cases)
+  True Positives:    109 (Correctly predicted Churn)
+✅ Logged to MLflow: stratified_baseline
+
+MODEL 3/4: Logistic Regression (Balanced Weights)
+Training: logistic_balanced
+
+Training Metrics:
+  PR-AUC:    0.6648
+  F1-Score:  0.6344
+  Precision: 0.5228
+  Recall:    0.8067
+
+Test Metrics:
+  PR-AUC:    0.6328
+  F1-Score:  0.6143
+  Precision: 0.5052
+  Recall:    0.7834
+Classification Report: logistic_balanced
+              precision    recall  f1-score   support
+
+    No Churn       0.90      0.72      0.80      1035
+       Churn       0.51      0.78      0.61       374
+
+    accuracy                           0.74      1409
+   macro avg       0.70      0.75      0.71      1409
+weighted avg       0.80      0.74      0.75      1409
+
+
+Confusion Matrix Breakdown:
+  True Negatives:    748 (Correctly predicted No Churn)
+  False Positives:   287 (Incorrectly predicted Churn)
+  False Negatives:    81 (Missed Churn cases)
+  True Positives:    293 (Correctly predicted Churn)
+✅ Logged to MLflow: logistic_balanced
+
+MODEL 4/4: Logistic Regression (SMOTE)
+Training: logistic_smote
+
+Training Metrics:
+  PR-AUC:    0.6642
+  F1-Score:  0.6335
+  Precision: 0.5209
+  Recall:    0.8080
+
+Test Metrics:
+  PR-AUC:    0.6284
+  F1-Score:  0.6189
+  Precision: 0.5059
+  Recall:    0.7968
+Classification Report: logistic_smote
+              precision    recall  f1-score   support
+
+    No Churn       0.91      0.72      0.80      1035
+       Churn       0.51      0.80      0.62       374
+
+    accuracy                           0.74      1409
+   macro avg       0.71      0.76      0.71      1409
+weighted avg       0.80      0.74      0.75      1409
+
+
+Confusion Matrix Breakdown:
+  True Negatives:    744 (Correctly predicted No Churn)
+  False Positives:   291 (Incorrectly predicted Churn)
+  False Negatives:    76 (Missed Churn cases)
+  True Positives:    298 (Correctly predicted Churn)
+✅ Logged to MLflow: logistic_smote
+MODEL COMPARISON
+
+                       PR-AUC  F1-Score  Precision    Recall   ROC-AUC
+majority_baseline    0.265436  0.000000   0.000000  0.000000  0.500000
+stratified_baseline  0.272340  0.290280   0.289125  0.291444  0.516253
+logistic_balanced    0.632765  0.614256   0.505172  0.783422  0.841771
+logistic_smote       0.628434  0.618899   0.505942  0.796791  0.840071
+
+Best Model (by PR-AUC): logistic_balanced
+   PR-AUC: 0.6328
+
+BUSINESS COST COMPARISON
+
+Cost Assumptions:
+  False Negative (Missed Churn):  $100 per customer
+  False Positive (Wasted Effort): $10 per customer
+
+              Model  FN  FP FN_Cost FP_Cost  Total_Cost
+     logistic_smote  76 291  $7,600  $2,910       10510
+  logistic_balanced  81 287  $8,100  $2,870       10970
+stratified_baseline 265 268 $26,500  $2,680       29180
+  majority_baseline 374   0 $37,400      $0       37400
+
+Lowest Cost Model: logistic_smote
+   Total Cost: $10,510
+
+PR curve comparison saved: plots/model_comparison.png
+
+DAY 2 COMPLETE!
+Models Trained: 4
+Best PR-AUC: 0.6328
+Artifacts saved: ./plots/
+MLflow experiments: mlflow ui --port 5000

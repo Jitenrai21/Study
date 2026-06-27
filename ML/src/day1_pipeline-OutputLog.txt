@@ -1,0 +1,26 @@
+DAY 1: LEAKAGE-PROOF PIPELINE SETUP
+Data checksum: 0f9de68e012bd3aed5fa7cdc9fc421af
+ Loaded: 7043 rows, Churn rate: 26.5%
+Train: 5634 (26.5% churn)
+Test:  1409 (26.5% churn)
+PIPELINE VALIDATION
+Train features shape: (5634, 30)
+Feature names (first 10): ['num__tenure' 'num__MonthlyCharges' 'num__TotalCharges'
+ 'cat__gender_Male' 'cat__SeniorCitizen_1' 'cat__Partner_Yes'
+ 'cat__Dependents_Yes' 'cat__PhoneService_Yes'
+ 'cat__MultipleLines_No phone service' 'cat__MultipleLines_Yes']
+BUSINESS COST ASSUMPTIONS (Day 1)
+
+Cost Definitions:
+  False Negative (Missed Churn):  $100 per customer
+  False Positive (Wasted Effort): $ 10 per customer
+
+Cost Ratio: 10.0:1
+  → Missing a churner is 10x more expensive than a false alarm
+
+Implication:
+  • This is an imbalanced cost problem (FN >> FP)
+  • We should prioritize Recall over Precision
+  • Standard accuracy metric is misleading
+  • PR-AUC (Precision-Recall) is better than ROC-AUC for evaluation
+✅ DAY 1 COMPLETE: FOUNDATION READY FOR MODELING
